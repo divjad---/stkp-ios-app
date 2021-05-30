@@ -1,0 +1,495 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A81473FA25E66F7F00D5D491 /* GpxViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A81473F925E66F7F00D5D491 /* GpxViewModel.swift */; };
+		A81473FD25E67C2C00D5D491 /* LatestDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A81473FC25E67C2C00D5D491 /* LatestDate.swift */; };
+		A86B8E8125D593F10035641A /* control.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A86B8E8025D593F10035641A /* control.gpx */; };
+		A8B41C9526023AE900E66D5B /* EtapaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8B41C9426023AE900E66D5B /* EtapaView.swift */; };
+		A8D0D53725D44F2C00FFC5E4 /* STKPApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0D53625D44F2C00FFC5E4 /* STKPApp.swift */; };
+		A8D0D53925D44F2C00FFC5E4 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0D53825D44F2C00FFC5E4 /* MapView.swift */; };
+		A8D0D53B25D44F2D00FFC5E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8D0D53A25D44F2D00FFC5E4 /* Assets.xcassets */; };
+		A8D0D53E25D44F2D00FFC5E4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8D0D53D25D44F2D00FFC5E4 /* Preview Assets.xcassets */; };
+		A8D0D54725D4514B00FFC5E4 /* Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0D54625D4514B00FFC5E4 /* Parser.swift */; };
+		A8D0D54B25D4519600FFC5E4 /* coordinates.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A8D0D54A25D4519600FFC5E4 /* coordinates.gpx */; };
+		A8D0D55025D4569400FFC5E4 /* Point.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0D54F25D4569400FFC5E4 /* Point.swift */; };
+		A8D0D55425D45A0000FFC5E4 /* coordinates1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A8D0D55325D45A0000FFC5E4 /* coordinates1.gpx */; };
+		A8D0D55B25D45F0900FFC5E4 /* LocationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0D55A25D45F0900FFC5E4 /* LocationViewModel.swift */; };
+		A8D0D55F25D4602F00FFC5E4 /* MapViewCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0D55E25D4602F00FFC5E4 /* MapViewCoordinator.swift */; };
+		A8D0D56325D4645100FFC5E4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0D56225D4645100FFC5E4 /* ContentView.swift */; };
+		A8EC9AB326022138003BFD9A /* Etapa.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8EC9AB226022137003BFD9A /* Etapa.swift */; };
+		A8EC9AB6260228BB003BFD9A /* KontrolnaTocka.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8EC9AB5260228BB003BFD9A /* KontrolnaTocka.swift */; };
+		FC49A36D9F4C1B712F17D9DC /* Pods_STKP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ADE4A5CAD938E56EE685EF1 /* Pods_STKP.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		118811AEF61E66B51EEDE0D7 /* Pods-STKP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-STKP.release.xcconfig"; path = "Target Support Files/Pods-STKP/Pods-STKP.release.xcconfig"; sourceTree = "<group>"; };
+		6C5468D581F7C8A91B5E17D0 /* Pods-STKP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-STKP.debug.xcconfig"; path = "Target Support Files/Pods-STKP/Pods-STKP.debug.xcconfig"; sourceTree = "<group>"; };
+		8ADE4A5CAD938E56EE685EF1 /* Pods_STKP.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_STKP.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A81473F925E66F7F00D5D491 /* GpxViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GpxViewModel.swift; sourceTree = "<group>"; };
+		A81473FC25E67C2C00D5D491 /* LatestDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LatestDate.swift; sourceTree = "<group>"; };
+		A86B8E8025D593F10035641A /* control.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = control.gpx; sourceTree = "<group>"; };
+		A8B41C9426023AE900E66D5B /* EtapaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EtapaView.swift; sourceTree = "<group>"; };
+		A8D0D53325D44F2C00FFC5E4 /* STKP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = STKP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8D0D53625D44F2C00FFC5E4 /* STKPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = STKPApp.swift; sourceTree = "<group>"; };
+		A8D0D53825D44F2C00FFC5E4 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		A8D0D53A25D44F2D00FFC5E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A8D0D53D25D44F2D00FFC5E4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A8D0D53F25D44F2D00FFC5E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8D0D54625D4514B00FFC5E4 /* Parser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Parser.swift; sourceTree = "<group>"; };
+		A8D0D54A25D4519600FFC5E4 /* coordinates.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = coordinates.gpx; sourceTree = "<group>"; };
+		A8D0D54F25D4569400FFC5E4 /* Point.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Point.swift; sourceTree = "<group>"; };
+		A8D0D55325D45A0000FFC5E4 /* coordinates1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = coordinates1.gpx; sourceTree = "<group>"; };
+		A8D0D55A25D45F0900FFC5E4 /* LocationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationViewModel.swift; sourceTree = "<group>"; };
+		A8D0D55E25D4602F00FFC5E4 /* MapViewCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewCoordinator.swift; sourceTree = "<group>"; };
+		A8D0D56225D4645100FFC5E4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A8EC9AB226022137003BFD9A /* Etapa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Etapa.swift; sourceTree = "<group>"; };
+		A8EC9AB5260228BB003BFD9A /* KontrolnaTocka.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KontrolnaTocka.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A8D0D53025D44F2C00FFC5E4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC49A36D9F4C1B712F17D9DC /* Pods_STKP.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9517E07B324819BC970E4398 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6C5468D581F7C8A91B5E17D0 /* Pods-STKP.debug.xcconfig */,
+				118811AEF61E66B51EEDE0D7 /* Pods-STKP.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		A8112D1925D6AF27003F8BA3 /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				A8D0D54625D4514B00FFC5E4 /* Parser.swift */,
+			);
+			path = Util;
+			sourceTree = "<group>";
+		};
+		A8112D1A25D6AF33003F8BA3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A8D0D54F25D4569400FFC5E4 /* Point.swift */,
+				A81473FC25E67C2C00D5D491 /* LatestDate.swift */,
+				A8EC9AB226022137003BFD9A /* Etapa.swift */,
+				A8EC9AB5260228BB003BFD9A /* KontrolnaTocka.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A8D0D52A25D44F2C00FFC5E4 = {
+			isa = PBXGroup;
+			children = (
+				A8D0D53525D44F2C00FFC5E4 /* STKP */,
+				A8D0D53425D44F2C00FFC5E4 /* Products */,
+				9517E07B324819BC970E4398 /* Pods */,
+				E359254FA8344C949EE17A4D /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		A8D0D53425D44F2C00FFC5E4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A8D0D53325D44F2C00FFC5E4 /* STKP.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A8D0D53525D44F2C00FFC5E4 /* STKP */ = {
+			isa = PBXGroup;
+			children = (
+				A8112D1A25D6AF33003F8BA3 /* Model */,
+				A8112D1925D6AF27003F8BA3 /* Util */,
+				A8D0D55925D45EFA00FFC5E4 /* ViewModel */,
+				A8D0D55825D45EF200FFC5E4 /* Coordinator */,
+				A8D0D55725D45EE200FFC5E4 /* Views */,
+				A8D0D55325D45A0000FFC5E4 /* coordinates1.gpx */,
+				A86B8E8025D593F10035641A /* control.gpx */,
+				A8D0D54A25D4519600FFC5E4 /* coordinates.gpx */,
+				A8D0D53625D44F2C00FFC5E4 /* STKPApp.swift */,
+				A8D0D53A25D44F2D00FFC5E4 /* Assets.xcassets */,
+				A8D0D53F25D44F2D00FFC5E4 /* Info.plist */,
+				A8D0D53C25D44F2D00FFC5E4 /* Preview Content */,
+			);
+			path = STKP;
+			sourceTree = "<group>";
+		};
+		A8D0D53C25D44F2D00FFC5E4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				A8D0D53D25D44F2D00FFC5E4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A8D0D55725D45EE200FFC5E4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A8D0D53825D44F2C00FFC5E4 /* MapView.swift */,
+				A8D0D56225D4645100FFC5E4 /* ContentView.swift */,
+				A8B41C9426023AE900E66D5B /* EtapaView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A8D0D55825D45EF200FFC5E4 /* Coordinator */ = {
+			isa = PBXGroup;
+			children = (
+				A8D0D55E25D4602F00FFC5E4 /* MapViewCoordinator.swift */,
+			);
+			path = Coordinator;
+			sourceTree = "<group>";
+		};
+		A8D0D55925D45EFA00FFC5E4 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				A8D0D55A25D45F0900FFC5E4 /* LocationViewModel.swift */,
+				A81473F925E66F7F00D5D491 /* GpxViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		E359254FA8344C949EE17A4D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8ADE4A5CAD938E56EE685EF1 /* Pods_STKP.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A8D0D53225D44F2C00FFC5E4 /* STKP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A8D0D54225D44F2D00FFC5E4 /* Build configuration list for PBXNativeTarget "STKP" */;
+			buildPhases = (
+				447554BB795C488C1B3BC0C3 /* [CP] Check Pods Manifest.lock */,
+				A8D0D52F25D44F2C00FFC5E4 /* Sources */,
+				A8D0D53025D44F2C00FFC5E4 /* Frameworks */,
+				A8D0D53125D44F2C00FFC5E4 /* Resources */,
+				DD384384B20565C0B84489B8 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = STKP;
+			productName = STKP;
+			productReference = A8D0D53325D44F2C00FFC5E4 /* STKP.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A8D0D52B25D44F2C00FFC5E4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					A8D0D53225D44F2C00FFC5E4 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+				};
+			};
+			buildConfigurationList = A8D0D52E25D44F2C00FFC5E4 /* Build configuration list for PBXProject "STKP" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A8D0D52A25D44F2C00FFC5E4;
+			productRefGroup = A8D0D53425D44F2C00FFC5E4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A8D0D53225D44F2C00FFC5E4 /* STKP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A8D0D53125D44F2C00FFC5E4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A8D0D53E25D44F2D00FFC5E4 /* Preview Assets.xcassets in Resources */,
+				A8D0D53B25D44F2D00FFC5E4 /* Assets.xcassets in Resources */,
+				A86B8E8125D593F10035641A /* control.gpx in Resources */,
+				A8D0D55425D45A0000FFC5E4 /* coordinates1.gpx in Resources */,
+				A8D0D54B25D4519600FFC5E4 /* coordinates.gpx in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		447554BB795C488C1B3BC0C3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-STKP-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DD384384B20565C0B84489B8 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-STKP/Pods-STKP-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-STKP/Pods-STKP-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-STKP/Pods-STKP-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A8D0D52F25D44F2C00FFC5E4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A81473FA25E66F7F00D5D491 /* GpxViewModel.swift in Sources */,
+				A8EC9AB6260228BB003BFD9A /* KontrolnaTocka.swift in Sources */,
+				A8EC9AB326022138003BFD9A /* Etapa.swift in Sources */,
+				A8D0D55025D4569400FFC5E4 /* Point.swift in Sources */,
+				A81473FD25E67C2C00D5D491 /* LatestDate.swift in Sources */,
+				A8D0D53925D44F2C00FFC5E4 /* MapView.swift in Sources */,
+				A8D0D56325D4645100FFC5E4 /* ContentView.swift in Sources */,
+				A8D0D53725D44F2C00FFC5E4 /* STKPApp.swift in Sources */,
+				A8D0D55B25D45F0900FFC5E4 /* LocationViewModel.swift in Sources */,
+				A8D0D55F25D4602F00FFC5E4 /* MapViewCoordinator.swift in Sources */,
+				A8B41C9526023AE900E66D5B /* EtapaView.swift in Sources */,
+				A8D0D54725D4514B00FFC5E4 /* Parser.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A8D0D54025D44F2D00FFC5E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A8D0D54125D44F2D00FFC5E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A8D0D54325D44F2D00FFC5E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6C5468D581F7C8A91B5E17D0 /* Pods-STKP.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"STKP/Preview Content\"";
+				DEVELOPMENT_TEAM = RF3C5C67ZB;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = STKP/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = trafela.david.STKP;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A8D0D54425D44F2D00FFC5E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 118811AEF61E66B51EEDE0D7 /* Pods-STKP.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"STKP/Preview Content\"";
+				DEVELOPMENT_TEAM = RF3C5C67ZB;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = STKP/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = trafela.david.STKP;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A8D0D52E25D44F2C00FFC5E4 /* Build configuration list for PBXProject "STKP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8D0D54025D44F2D00FFC5E4 /* Debug */,
+				A8D0D54125D44F2D00FFC5E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A8D0D54225D44F2D00FFC5E4 /* Build configuration list for PBXNativeTarget "STKP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8D0D54325D44F2D00FFC5E4 /* Debug */,
+				A8D0D54425D44F2D00FFC5E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A8D0D52B25D44F2C00FFC5E4 /* Project object */;
+}

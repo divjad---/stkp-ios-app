@@ -1,0 +1,5248 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.1" creator="Quo v2" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <desc>GPX datoteka generirana s programom Quo.</desc>
+    <link href="http://www.kje.si">
+      <text>Mapyx</text>
+    </link>
+    <time>2016-06-12T20:43:10.9351688+02:00</time>
+  </metadata>
+  <trk>
+    <name>01_Ljubljana-Mihelcicev dom na Govejku</name>
+    <desc />
+    <extensions>
+      <drawing v="True" pv="True" pw="4" pc="255|255|255" pt="0" lv="True" lw="4" lc="0|0|255" lt="0" ls="0" lcs="3" fc="255|255|255" ft="120" fs="-1" fsc="0|0|0" xmlns="" />
+    </extensions>
+    <trkseg>
+      <trkpt lat="46.0485061940106" lon="14.5094151364271">
+        <ele>367.467281688745</ele>
+        <time>2013-10-09T23:32:36.9543725</time>
+        <name>TOČKA 824</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0484672381946" lon="14.5093529695007">
+        <ele>367.47252988034</ele>
+        <time>2013-10-09T23:33:01.4977763</time>
+        <name>TOČKA 825</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0479815559574" lon="14.5100031893707">
+        <ele>364.929548495142</ele>
+        <time>2013-10-19T18:58:43.1564154</time>
+        <name>TOČKA 826</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0477788564025" lon="14.5101022121612">
+        <ele>364.354603461325</ele>
+        <time>2013-10-19T18:57:49.6383543</time>
+        <name>TOČKA 827</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0467859749416" lon="14.510895785937">
+        <ele>360.820937574596</ele>
+        <time>2013-10-09T23:33:03.2348757</time>
+        <name>TOČKA 828</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0467032584167" lon="14.5107784415742">
+        <ele>356.84233209201</ele>
+        <time>2013-10-19T18:58:03.3441382</time>
+        <name>TOČKA 829</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0469103207063" lon="14.5105682582063">
+        <ele>353.962248255609</ele>
+        <time>2013-10-19T18:58:54.917088</time>
+        <name>TOČKA 830</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0471785316533" lon="14.5099546990522">
+        <ele>347.240521276072</ele>
+        <time>2013-10-19T18:59:03.3035677</time>
+        <name>TOČKA 831</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0471405815177" lon="14.5089965621737">
+        <ele>338.887017982778</ele>
+        <time>2013-10-19T18:59:07.6688174</time>
+        <name>TOČKA 832</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0471868605732" lon="14.508509972253">
+        <ele>335.428475921871</ele>
+        <time>2013-10-19T18:59:19.4894935</time>
+        <name>TOČKA 833</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0471846875554" lon="14.5080029736791">
+        <ele>323.257025246024</ele>
+        <time>2013-10-19T18:59:28.204992</time>
+        <name>TOČKA 834</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0468230545477" lon="14.5082562065776">
+        <ele>315.512896894746</ele>
+        <time>2013-10-09T23:33:06.4340587</time>
+        <name>TOČKA 835</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0467320323678" lon="14.508458427553">
+        <ele>312.358434985055</ele>
+        <time>2013-10-19T20:05:59.8800349</time>
+        <name>TOČKA 836</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0467237582485" lon="14.5087849340473">
+        <ele>312.16522422865</ele>
+        <time>2013-10-19T20:07:37.4586161</time>
+        <name>TOČKA 837</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0466581565028" lon="14.509073262144">
+        <ele>309.080551215018</ele>
+        <time>2013-10-19T20:08:03.5851104</time>
+        <name>TOČKA 838</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0465738373494" lon="14.5091469326555">
+        <ele>307.616578280002</ele>
+        <time>2013-10-19T20:08:09.505449</time>
+        <name>TOČKA 839</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0462487745312" lon="14.5083406696851">
+        <ele>297</ele>
+        <time>2013-10-19T20:08:17.949932</time>
+        <name>TOČKA 840</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0464621929939" lon="14.5079220619913">
+        <ele>297.798970814044</ele>
+        <time>2013-10-19T20:08:26.1103988</time>
+        <name>TOČKA 841</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0466419512202" lon="14.5075488940414">
+        <ele>295.136055938154</ele>
+        <time>2013-10-19T20:08:34.5288803</time>
+        <name>TOČKA 842</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0469252656033" lon="14.5065149916781">
+        <ele>292</ele>
+        <time>2013-10-19T20:08:45.2204918</time>
+        <name>TOČKA 843</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0474852629781" lon="14.5062808227547">
+        <ele>291.976404953897</ele>
+        <time>2013-10-19T20:08:58.8822732</time>
+        <name>TOČKA 844</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0481243405971" lon="14.5061151602063">
+        <ele>291.574727157719</ele>
+        <time>2013-10-19T20:09:12.3700447</time>
+        <name>TOČKA 845</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0485375055965" lon="14.5061551038298">
+        <ele>292.200682235238</ele>
+        <time>2013-10-19T20:09:27.0048818</time>
+        <name>TOČKA 846</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0492351554361" lon="14.50632336021">
+        <ele>293</ele>
+        <time>2013-10-09T23:33:08.3061658</time>
+        <name>TOČKA 847</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.049578844428" lon="14.506448967738">
+        <ele>292.072410774693</ele>
+        <time>2013-10-09T23:33:09.9862619</time>
+        <name>TOČKA 848</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.049910255968" lon="14.5067207896176">
+        <ele>292</ele>
+        <time>2013-10-09T23:34:29.5628134</time>
+        <name>TOČKA 849</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0501995813705" lon="14.506959665215">
+        <ele>291.660965892426</ele>
+        <time>2013-10-13T15:36:50.1819411</time>
+        <name>TOČKA 850</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0514157768527" lon="14.5060314161857">
+        <ele>291.846353461146</ele>
+        <time>2013-10-13T15:37:11.6551693</time>
+        <name>TOČKA 851</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0514505879513" lon="14.5060447711188">
+        <ele>292</ele>
+        <time>2013-10-09T22:21:21.7298437</time>
+        <name>TOČKA 001</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0518471009237" lon="14.5049090461974">
+        <ele>294.72435450919</ele>
+        <time>2013-10-09T22:21:27.0101457</time>
+        <name>TOČKA 002</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0522331491602" lon="14.5035928002267">
+        <ele>298</ele>
+        <time>2013-10-09T22:21:36.0826646</time>
+        <name>TOČKA 003</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0524161077527" lon="14.5034036223928">
+        <ele>298</ele>
+        <time>2013-10-09T22:21:38.1147809</time>
+        <name>TOČKA 004</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.053379110048" lon="14.499058406898">
+        <ele>298</ele>
+        <time>2013-10-09T22:48:11.6429255</time>
+        <name>TOČKA 005</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0534723708811" lon="14.4990957711383">
+        <ele>298</ele>
+        <time>2014-08-30T22:43:39.478973</time>
+        <name>TOČKA 005 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0535568198432" lon="14.4990533330129">
+        <ele>298</ele>
+        <time>2014-08-30T22:44:40.8354824</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.053599858991" lon="14.4989418052671">
+        <ele>298</ele>
+        <time>2014-08-30T22:44:45.5967547</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0535775051088" lon="14.4988065547835">
+        <ele>298</ele>
+        <time>2014-08-30T22:44:52.2991381</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0535240202309" lon="14.4987410474861">
+        <ele>297.954777970859</ele>
+        <time>2014-08-30T22:44:58.7195053</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0534633571163" lon="14.4986929706148">
+        <ele>297.564198516338</ele>
+        <time>2014-08-30T22:45:45.2321657</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0536620202666" lon="14.4976735525102">
+        <ele>297.186156597734</ele>
+        <time>2014-08-30T22:45:34.4795507</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0535674283008" lon="14.4976084175652">
+        <ele>297.69769080013</ele>
+        <time>2014-08-30T22:46:07.581444</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0535089089397" lon="14.4974978063488">
+        <ele>298</ele>
+        <time>2014-08-30T22:46:11.9036912</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0534914654836" lon="14.4973798778863">
+        <ele>298</ele>
+        <time>2014-08-30T22:46:16.4519513</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0534693076051" lon="14.4972897770658">
+        <ele>298</ele>
+        <time>2014-08-30T22:46:23.5813591</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0533605573061" lon="14.4973046525731">
+        <ele>298.52519080013</ele>
+        <time>2014-08-30T22:46:30.9907829</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0532080846964" lon="14.4972747728981">
+        <ele>299</ele>
+        <time>2014-08-30T22:46:35.2070241</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0529222401103" lon="14.4971592719966">
+        <ele>299.074859586533</ele>
+        <time>2014-08-30T22:46:40.0403005</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0526144504454" lon="14.4970022939611">
+        <ele>299.877633311297</ele>
+        <time>2014-08-30T22:46:45.5516157</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0522820537641" lon="14.4967482950447">
+        <ele>299.759652602151</ele>
+        <time>2014-08-30T22:46:50.5259003</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.052038097373" lon="14.4965351748083">
+        <ele>299.770041149458</ele>
+        <time>2014-08-30T22:47:06.816832</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0517174390271" lon="14.4962011957865">
+        <ele>299.762987430739</ele>
+        <time>2014-08-30T22:47:12.6651665</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0515036764249" lon="14.4959808604868">
+        <ele>299.00738287616</ele>
+        <time>2014-08-30T22:47:22.9047522</time>
+        <name>TOČKA 005 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006 - TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0511172716623" lon="14.4955432949558">
+        <ele>299</ele>
+        <time>2013-10-09T22:48:23.2345885</time>
+        <name>TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0509269851728" lon="14.4951629954038">
+        <ele>298.322690694008</ele>
+        <time>2013-10-09T23:01:44.7624332</time>
+        <name>TOČKA 007</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0509965424118" lon="14.4950338643617">
+        <ele>298.099406597763</ele>
+        <time>2013-10-09T23:01:47.2825774</time>
+        <name>TOČKA 008</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0510372819537" lon="14.4949501432751">
+        <ele>297.948906597719</ele>
+        <time>2014-08-30T22:48:03.5410765</time>
+        <name>TOČKA 008 - TOČKA 009</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0510366703122" lon="14.494811230183">
+        <ele>297.088906597719</ele>
+        <time>2014-08-30T22:48:09.791434</time>
+        <name>TOČKA 008 - TOČKA 009 - TOČKA 009</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0509927787762" lon="14.4947282777539">
+        <ele>296.362257368009</ele>
+        <time>2014-08-30T22:48:14.0246761</time>
+        <name>TOČKA 008 - TOČKA 009 - TOČKA 009 - TOČKA 009</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0508825397469" lon="14.4946930623037">
+        <ele>295.438639284074</ele>
+        <time>2013-10-09T23:01:49.3096933</time>
+        <name>TOČKA 009</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0513278213898" lon="14.4936749051155">
+        <ele>297.557187170609</ele>
+        <time>2013-10-09T23:01:51.3798117</time>
+        <name>TOČKA 010</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0515618429958" lon="14.493005958693">
+        <ele>298.650281690955</ele>
+        <time>2013-10-09T23:01:53.2669197</time>
+        <name>TOČKA 011</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0516609429945" lon="14.4924493744066">
+        <ele>299</ele>
+        <time>2013-10-09T23:01:55.5300491</time>
+        <name>TOČKA 012</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0522031983766" lon="14.4898446064501">
+        <ele>302.168140795468</ele>
+        <time>2013-10-09T23:02:30.3460405</time>
+        <name>TOČKA 013</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0529889856408" lon="14.4871234280691">
+        <ele>302.398897369506</ele>
+        <time>2013-10-09T23:02:33.6022267</time>
+        <name>TOČKA 014</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0531507078125" lon="14.4865176173032">
+        <ele>302.032316892666</ele>
+        <time>2013-10-09T23:02:40.0985983</time>
+        <name>TOČKA 015</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0533079726115" lon="14.4854444620026">
+        <ele>302.83070611211</ele>
+        <time>2013-10-09T23:02:42.0587104</time>
+        <name>TOČKA 016</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0533986080247" lon="14.4846398464039">
+        <ele>302.108422421438</ele>
+        <time>2013-10-09T23:02:43.8588133</time>
+        <name>TOČKA 017</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0533961102254" lon="14.4840841712687">
+        <ele>302.376940884254</ele>
+        <time>2013-10-09T23:02:47.1059991</time>
+        <name>TOČKA 018</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0532768878935" lon="14.4833837098292">
+        <ele>303.245044199342</ele>
+        <time>2013-10-09T23:02:49.290124</time>
+        <name>TOČKA 019</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0528979342451" lon="14.4819285355956">
+        <ele>304</ele>
+        <time>2013-10-09T23:02:51.7542649</time>
+        <name>TOČKA 020</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0527341515937" lon="14.481413940689">
+        <ele>304</ele>
+        <time>2013-10-09T23:02:54.186404</time>
+        <name>TOČKA 021</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0522475625172" lon="14.4807586004909">
+        <ele>303.805799859955</ele>
+        <time>2013-10-09T23:03:17.1137154</time>
+        <name>TOČKA 022</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0515567854094" lon="14.47986901683">
+        <ele>303.549862728417</ele>
+        <time>2013-10-09T23:03:19.4988518</time>
+        <name>TOČKA 023</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0509611442508" lon="14.4786312677369">
+        <ele>303.873761207758</ele>
+        <time>2013-10-09T23:03:23.1080583</time>
+        <name>TOČKA 024</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0507413675702" lon="14.4782687891456">
+        <ele>304.233017746721</ele>
+        <time>2013-10-09T23:03:25.5221964</time>
+        <name>TOČKA 025</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0504098300737" lon="14.4776815019979">
+        <ele>304.035777968441</ele>
+        <time>2013-10-09T23:03:59.1161178</time>
+        <name>TOČKA 026</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0501822802545" lon="14.477096716968">
+        <ele>303.574271001443</ele>
+        <time>2013-10-09T23:06:26.2575338</time>
+        <name>TOČKA 027</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0500874549965" lon="14.4769830026791">
+        <ele>303.18080919981</ele>
+        <time>2014-08-30T22:50:44.2032658</time>
+        <name>TOČKA 050</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0499486300813" lon="14.4767655157355">
+        <ele>301.848035753951</ele>
+        <time>2014-08-30T22:50:46.0933739</time>
+        <name>TOČKA 051</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0498678372276" lon="14.4765474836324">
+        <ele>300.691580201238</ele>
+        <time>2014-08-30T22:50:47.2844421</time>
+        <name>TOČKA 052</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0498087268637" lon="14.4763118835371">
+        <ele>299.347177795292</ele>
+        <time>2014-08-30T22:50:48.7445256</time>
+        <name>TOČKA 053</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0497616743893" lon="14.4760692245692">
+        <ele>298.259902404981</ele>
+        <time>2014-08-30T22:50:50.1396054</time>
+        <name>TOČKA 054</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0497121399023" lon="14.4758126978734">
+        <ele>296.891309199855</ele>
+        <time>2014-08-30T22:50:52.457738</time>
+        <name>TOČKA 055</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0496341760143" lon="14.4756849362538">
+        <ele>295.958205202283</ele>
+        <time>2014-08-30T22:50:53.9118211</time>
+        <name>TOČKA 056</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0495983342779" lon="14.4757790418444">
+        <ele>295.88080919981</ele>
+        <time>2014-08-30T22:50:55.4109069</time>
+        <name>TOČKA 057</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0495039521577" lon="14.4757625671947">
+        <ele>295.04230919987</ele>
+        <time>2014-08-30T22:50:56.5199703</time>
+        <name>TOČKA 058</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0494526340543" lon="14.475644973477">
+        <ele>295.40919080019</ele>
+        <time>2014-08-30T22:50:58.4220791</time>
+        <name>TOČKA 059</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0495718675604" lon="14.4752791973721">
+        <ele>295.33419080019</ele>
+        <time>2014-08-30T22:51:00.8122158</time>
+        <name>TOČKA 060</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0497675224661" lon="14.4747043248745">
+        <ele>296.142381600291</ele>
+        <time>2014-08-30T22:51:04.5734309</time>
+        <name>TOČKA 061</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0501170040408" lon="14.4739265649194">
+        <ele>295.958156766971</ele>
+        <time>2014-08-30T22:51:13.1219199</time>
+        <name>TOČKA 062</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0502823337306" lon="14.4735950735205">
+        <ele>295.434650936822</ele>
+        <time>2014-08-30T22:51:14.7030103</time>
+        <name>TOČKA 063</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0503971870489" lon="14.4733300438692">
+        <ele>295.784726992007</ele>
+        <time>2014-08-30T22:51:17.1081479</time>
+        <name>TOČKA 064</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0505020645332" lon="14.4729991219177">
+        <ele>295.865029585544</ele>
+        <time>2014-08-30T22:51:19.2492704</time>
+        <name>TOČKA 065</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0506471211603" lon="14.4724663870395">
+        <ele>295.65919080019</ele>
+        <time>2014-08-30T22:51:21.8934216</time>
+        <name>TOČKA 066</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.050739762195" lon="14.4721043215801">
+        <ele>295.442052841141</ele>
+        <time>2014-08-30T22:51:23.6625228</time>
+        <name>TOČKA 067</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0507723514552" lon="14.4718296491439">
+        <ele>295.51969080016</ele>
+        <time>2014-08-30T22:51:25.0055996</time>
+        <name>TOČKA 068</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0507967578417" lon="14.4713536229545">
+        <ele>295.283190800175</ele>
+        <time>2014-08-30T22:51:26.3486764</time>
+        <name>TOČKA 069</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0507950285983" lon="14.4709785606314">
+        <ele>296</ele>
+        <time>2014-08-30T22:51:28.9768267</time>
+        <name>TOČKA 070</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0507736975167" lon="14.4705481177457">
+        <ele>296.018959881111</ele>
+        <time>2014-08-30T22:51:36.3542487</time>
+        <name>TOČKA 071</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0507718854211" lon="14.4701556916409">
+        <ele>296.45519080013</ele>
+        <time>2014-08-30T22:51:38.264358</time>
+        <name>TOČKA 072</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0507659422241" lon="14.4699161147408">
+        <ele>296.498190800175</ele>
+        <time>2014-08-30T22:51:40.1384651</time>
+        <name>TOČKA 073</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0507860507176" lon="14.4695582090994">
+        <ele>296.30469080016</ele>
+        <time>2014-08-30T22:51:43.334648</time>
+        <name>TOČKA 074</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0507344279619" lon="14.4688536931498">
+        <ele>297</ele>
+        <time>2014-08-30T22:51:47.4978861</time>
+        <name>TOČKA 075</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.05078216102" lon="14.4687177921241">
+        <ele>297</ele>
+        <time>2014-08-30T22:51:49.4879999</time>
+        <name>TOČKA 076</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0508276367941" lon="14.4686166419726">
+        <ele>296.896190800145</ele>
+        <time>2014-08-30T22:51:52.5551753</time>
+        <name>TOČKA 077</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.050976299947" lon="14.4680838579689">
+        <ele>297</ele>
+        <time>2014-08-30T22:52:00.5026299</time>
+        <name>TOČKA 078</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0511639871471" lon="14.467363156786">
+        <ele>296.774262971136</ele>
+        <time>2014-08-30T22:52:03.3247913</time>
+        <name>TOČKA 079</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0512874489711" lon="14.46687228361">
+        <ele>297</ele>
+        <time>2014-08-30T22:52:05.3699083</time>
+        <name>TOČKA 080</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0513752684915" lon="14.4665171968267">
+        <ele>297</ele>
+        <time>2014-08-30T22:52:08.3150768</time>
+        <name>TOČKA 081</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0515317541718" lon="14.4658488798617">
+        <ele>297.045966363135</ele>
+        <time>2014-08-30T22:52:11.2752461</time>
+        <name>TOČKA 082</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0516194895734" lon="14.4654764256768">
+        <ele>297.72594080016</ele>
+        <time>2014-08-30T22:52:12.899339</time>
+        <name>TOČKA 083</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.051749905683" lon="14.4649229631241">
+        <ele>297.54344080016</ele>
+        <time>2014-08-30T22:52:18.3066482</time>
+        <name>TOČKA 084</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0517590268301" lon="14.4648047929384">
+        <ele>297.457440800145</ele>
+        <time>2014-08-30T22:52:19.7147288</time>
+        <name>TOČKA 085</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0517246235965" lon="14.4646870417463">
+        <ele>297.823457087234</ele>
+        <time>2014-08-30T22:52:21.1508109</time>
+        <name>TOČKA 086</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.052575268757" lon="14.461216207868">
+        <ele>299</ele>
+        <time>2014-08-30T22:52:41.5939802</time>
+        <name>TOČKA 087</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.052425274092" lon="14.461143072216">
+        <ele>299</ele>
+        <time>2013-11-30T17:50:52.5813768</time>
+        <name>TOČKA 019</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0522842975494" lon="14.4610126243411">
+        <ele>299</ele>
+        <time>2013-11-30T17:50:57.6056642</time>
+        <name>TOČKA 020</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0521154907138" lon="14.4607041106953">
+        <ele>299</ele>
+        <time>2013-11-30T17:51:03.6950125</time>
+        <name>TOČKA 021</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0516089873996" lon="14.4591893020831">
+        <ele>300</ele>
+        <time>2013-11-30T17:51:25.3172492</time>
+        <name>TOČKA 022</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0514724939124" lon="14.4588555950814">
+        <ele>300.290992025383</ele>
+        <time>2013-12-22T23:34:44.132263</time>
+        <name>TOČKA 022 - TOČKA 023</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0513223149724" lon="14.4588014889635">
+        <ele>301.818334023431</ele>
+        <time>2013-11-30T18:57:45.9329274</time>
+        <name>TOČKA 001</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0511429887424" lon="14.4587198830818">
+        <ele>303.925334023461</ele>
+        <time>2013-11-30T18:57:47.1419966</time>
+        <name>TOČKA 002</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0510649894642" lon="14.4585886695948">
+        <ele>305</ele>
+        <time>2013-11-30T18:57:48.1900565</time>
+        <name>TOČKA 003</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0510281590029" lon="14.4582593262895">
+        <ele>306.817609238176</ele>
+        <time>2013-11-30T18:57:50.366181</time>
+        <name>TOČKA 004</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0510332176842" lon="14.4580055205601">
+        <ele>309.095645430459</ele>
+        <time>2013-11-30T18:57:51.6292532</time>
+        <name>TOČKA 005</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0510078929035" lon="14.4577788007604">
+        <ele>310.842502026111</ele>
+        <time>2013-11-30T18:57:55.5974802</time>
+        <name>TOČKA 006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.050682133927" lon="14.4573891309392">
+        <ele>313.368872200124</ele>
+        <time>2013-11-30T18:57:59.6297108</time>
+        <name>TOČKA 007</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.050348808721" lon="14.4569220045279">
+        <ele>316.473923062874</ele>
+        <time>2013-11-30T18:58:01.6218248</time>
+        <name>TOČKA 008</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0496585043962" lon="14.4563136430621">
+        <ele>319.948934012861</ele>
+        <time>2013-11-30T18:58:05.6940577</time>
+        <name>TOČKA 009</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0493694649302" lon="14.4560786993205">
+        <ele>322</ele>
+        <time>2013-11-30T18:58:09.6452837</time>
+        <name>TOČKA 010</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0493693178493" lon="14.4560476872897">
+        <ele>322</ele>
+        <time>2013-11-30T18:58:09.8642962</time>
+        <name>TOČKA 011</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0492198991419" lon="14.4556563127732">
+        <ele>322</ele>
+        <time>2013-11-30T18:58:11.0933665</time>
+        <name>TOČKA 012</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.048933057934" lon="14.4551267271268">
+        <ele>322</ele>
+        <time>2013-11-30T18:58:12.8534672</time>
+        <name>TOČKA 013</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.048724278791" lon="14.454741109109">
+        <ele>322.022131136534</ele>
+        <time>2013-11-30T18:58:18.3337806</time>
+        <name>TOČKA 014</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0484776853008" lon="14.4543506962285">
+        <ele>322.545451673716</ele>
+        <time>2013-11-30T18:58:20.5819092</time>
+        <name>TOČKA 015</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0482024715247" lon="14.4539967494804">
+        <ele>323</ele>
+        <time>2013-11-30T18:58:22.1820007</time>
+        <name>TOČKA 016</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0479384719042" lon="14.4537305652788">
+        <ele>323</ele>
+        <time>2013-11-30T18:58:33.6776582</time>
+        <name>TOČKA 017</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0477942204254" lon="14.4536699572199">
+        <ele>322</ele>
+        <time>2013-11-30T18:58:34.8697264</time>
+        <name>TOČKA 018</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0477643210328" lon="14.453437656694">
+        <ele>322</ele>
+        <time>2013-11-30T18:58:36.4138147</time>
+        <name>TOČKA 019</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0477654062979" lon="14.4529104322962">
+        <ele>321</ele>
+        <time>2013-11-30T18:58:37.7978939</time>
+        <name>TOČKA 020</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.047771025674" lon="14.4525795762022">
+        <ele>321</ele>
+        <time>2013-11-30T18:58:40.2060317</time>
+        <name>TOČKA 021</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0479127850901" lon="14.4521181595696">
+        <ele>320.084459226892</ele>
+        <time>2013-11-30T18:58:43.1742014</time>
+        <name>TOČKA 022</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0481092179766" lon="14.4518009276485">
+        <ele>319.095174300199</ele>
+        <time>2013-11-30T18:58:51.4056722</time>
+        <name>TOČKA 023</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.048645913345" lon="14.4511391931486">
+        <ele>320</ele>
+        <time>2013-11-30T18:58:54.5498521</time>
+        <name>TOČKA 024</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0490434609877" lon="14.4507320961739">
+        <ele>321.813909902279</ele>
+        <time>2013-11-30T18:58:57.6540296</time>
+        <name>TOČKA 025</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0501268849849" lon="14.4500029047343">
+        <ele>315.252756482877</ele>
+        <time>2013-11-30T18:59:00.790209</time>
+        <name>TOČKA 026</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0510307475883" lon="14.4493648035872">
+        <ele>323.76394302963</ele>
+        <time>2013-11-30T18:59:07.3255828</time>
+        <name>TOČKA 027</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0514121270904" lon="14.4489563702038">
+        <ele>325.413604130077</ele>
+        <time>2013-11-30T18:59:09.7497215</time>
+        <name>TOČKA 028</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0516073319182" lon="14.4485811404529">
+        <ele>326</ele>
+        <time>2013-11-30T18:59:16.6701173</time>
+        <name>TOČKA 029</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0517754567641" lon="14.4483433080382">
+        <ele>326.787329624051</ele>
+        <time>2013-11-30T18:59:25.9416476</time>
+        <name>TOČKA 030</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0518956554388" lon="14.4481962484777">
+        <ele>326.701247653949</ele>
+        <time>2013-11-30T18:59:27.9097601</time>
+        <name>TOČKA 031</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0521271491238" lon="14.4480619754872">
+        <ele>326.163471380845</ele>
+        <time>2013-12-22T23:28:30.7159048</time>
+        <name>TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0522874060943" lon="14.4481993063147">
+        <ele>324.363334023282</ele>
+        <time>2013-12-22T23:29:24.6649905</time>
+        <name>TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.05246663941" lon="14.4482600423829">
+        <ele>325.491973908504</ele>
+        <time>2013-12-22T23:29:20.0657275</time>
+        <name>TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0525966771028" lon="14.4481476137708">
+        <ele>326</ele>
+        <time>2013-12-22T23:29:13.2003348</time>
+        <name>TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0526632446881" lon="14.4479107842968">
+        <ele>327.019551716327</ele>
+        <time>2013-12-22T23:29:08.8310849</time>
+        <name>TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0525941022971" lon="14.4476127873522">
+        <ele>327.607608738467</ele>
+        <time>2013-12-22T23:29:04.4198326</time>
+        <name>TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0524630280334" lon="14.4475098980042">
+        <ele>327.560471380874</ele>
+        <time>2013-12-22T23:28:59.9795786</time>
+        <name>TOČKA 031 - TOČKA 031 - TOČKA 031 - TOČKA 032 - TOČKA 031 - TOČKA 031 - TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0522598485022" lon="14.4474980249777">
+        <ele>328.177690832011</ele>
+        <time>2013-12-22T23:28:23.6395001</time>
+        <name>TOČKA 031 - TOČKA 031 - TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0519627426802" lon="14.4470633764006">
+        <ele>330.355471380874</ele>
+        <time>2013-12-22T23:28:17.7011604</time>
+        <name>TOČKA 031 - TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0518226463981" lon="14.4467605856945">
+        <ele>331</ele>
+        <time>2013-11-30T18:59:54.1972637</time>
+        <name>TOČKA 032</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0518435797246" lon="14.4466880336533">
+        <ele>331</ele>
+        <time>2013-11-30T17:55:31.3333205</time>
+        <name>TOČKA 082</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.051847593621" lon="14.4464011062633">
+        <ele>332</ele>
+        <time>2013-11-30T17:55:32.9254116</time>
+        <name>TOČKA 083</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0519215979887" lon="14.4460747129043">
+        <ele>332</ele>
+        <time>2013-11-30T17:55:34.2934898</time>
+        <name>TOČKA 084</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0519422174905" lon="14.4458729105353">
+        <ele>332</ele>
+        <time>2013-11-30T17:55:37.2936614</time>
+        <name>TOČKA 085</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0519081035915" lon="14.4455165792889">
+        <ele>332</ele>
+        <time>2013-11-30T17:55:38.597736</time>
+        <name>TOČKA 086</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0519452921106" lon="14.4453921487312">
+        <ele>332</ele>
+        <time>2013-11-30T17:55:40.2458303</time>
+        <name>TOČKA 087</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0521489287769" lon="14.4450799669951">
+        <ele>332.779665786102</ele>
+        <time>2013-11-30T17:55:42.1339383</time>
+        <name>TOČKA 088</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0523095655433" lon="14.4448069813043">
+        <ele>332.322063886225</ele>
+        <time>2013-11-30T17:55:45.4611286</time>
+        <name>TOČKA 089</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0524327512394" lon="14.4446041523885">
+        <ele>334.100796200186</ele>
+        <time>2013-11-30T17:55:47.8612659</time>
+        <name>TOČKA 090</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.052596246243" lon="14.4444222427219">
+        <ele>338.130398526552</ele>
+        <time>2013-11-30T18:05:51.9858198</time>
+        <name>TOČKA 090 - TOČKA 091</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0528907045067" lon="14.4443081613337">
+        <ele>339.12072967276</ele>
+        <time>2013-11-30T17:57:55.4375628</time>
+        <name>TOČKA 091</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0540463447394" lon="14.443139000003">
+        <ele>337.72371022068</ele>
+        <time>2013-11-30T17:58:00.2058355</time>
+        <name>TOČKA 092</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0541467369129" lon="14.4430244285595">
+        <ele>337.305767685994</ele>
+        <time>2013-11-30T17:58:03.8210423</time>
+        <name>TOČKA 093</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0542951684441" lon="14.4427173022693">
+        <ele>337.799578670809</ele>
+        <time>2013-11-30T17:58:04.9811087</time>
+        <name>TOČKA 094</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0548388681496" lon="14.4421422459008">
+        <ele>336.927029622391</ele>
+        <time>2013-11-30T17:58:08.2692968</time>
+        <name>TOČKA 095</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0551507818608" lon="14.4417629587487">
+        <ele>338.605112226373</ele>
+        <time>2013-11-30T17:58:12.4935384</time>
+        <name>TOČKA 096</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0554698695262" lon="14.4412995113674">
+        <ele>344.351940879822</ele>
+        <time>2016-05-03T13:51:29.5633859</time>
+        <name>TOČKA 096 - TOČKA 097</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0556938976845" lon="14.4411235966922">
+        <ele>347.482960157428</ele>
+        <time>2013-11-30T17:58:15.4697086</time>
+        <name>TOČKA 097</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0560198372147" lon="14.4410195944861">
+        <ele>351.435067012757</ele>
+        <time>2013-11-30T17:58:17.9098482</time>
+        <name>TOČKA 098</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0563339744437" lon="14.4409747558377">
+        <ele>352</ele>
+        <time>2014-04-04T21:39:03.4877227</time>
+        <name>TOČKA 098 - TOČKA 099</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0565779726239" lon="14.4409271488099">
+        <ele>352</ele>
+        <time>2014-04-04T21:40:47.9176958</time>
+        <name>TOČKA 098 - TOČKA 099 - TOČKA 099</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.056741495947" lon="14.4409342253172">
+        <ele>352.854418535414</ele>
+        <time>2013-11-30T17:59:20.0454021</time>
+        <name>TOČKA 099</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.057325062899" lon="14.4407279493658">
+        <ele>353</ele>
+        <time>2013-11-30T17:59:22.7775584</time>
+        <name>TOČKA 100</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.057436053861" lon="14.4406782054199">
+        <ele>353.02263552788</ele>
+        <time>2013-11-30T17:59:50.3831373</time>
+        <name>TOČKA 101</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0575323673673" lon="14.4405938752379">
+        <ele>353.895993667895</ele>
+        <time>2013-11-30T17:59:51.950227</time>
+        <name>TOČKA 102</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0577064634728" lon="14.4402732217152">
+        <ele>354.99764104662</ele>
+        <time>2016-05-03T13:50:39.45652</time>
+        <name>TOČKA 102 - TOČKA 103</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0578448252473" lon="14.4398862816173">
+        <ele>356.881024243704</ele>
+        <time>2013-11-30T17:59:53.1982983</time>
+        <name>TOČKA 103</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0579624250659" lon="14.4397044796439">
+        <ele>359.038868527985</ele>
+        <time>2013-11-30T17:59:55.4374264</time>
+        <name>TOČKA 104</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.058224917948" lon="14.4394830081971">
+        <ele>364.407957994019</ele>
+        <time>2013-11-30T17:59:56.5684911</time>
+        <name>TOČKA 105</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0583905374768" lon="14.4392312511182">
+        <ele>365.894453303888</ele>
+        <time>2013-11-30T17:59:59.1566391</time>
+        <name>TOČKA 106</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0584284611122" lon="14.4390745641089">
+        <ele>365.831620574094</ele>
+        <time>2013-11-30T18:00:01.951799</time>
+        <name>TOČKA 107</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0583987654654" lon="14.4389359266454">
+        <ele>366.421629494429</ele>
+        <time>2016-05-03T13:49:59.5362367</time>
+        <name>TOČKA 107 - TOČKA 108</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.058204424602" lon="14.4387537973534">
+        <ele>367.761775448153</ele>
+        <time>2013-11-30T18:00:05.4509992</time>
+        <name>TOČKA 108</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0579807783523" lon="14.4385129175029">
+        <ele>369.89044088006</ele>
+        <time>2013-11-30T18:00:07.1910987</time>
+        <name>TOČKA 109</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0579996461617" lon="14.4384154715881">
+        <ele>369.564179989392</ele>
+        <time>2013-11-30T18:00:08.8121914</time>
+        <name>TOČKA 110</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0581375232497" lon="14.4384244987222">
+        <ele>370</ele>
+        <time>2013-11-30T18:00:10.2482736</time>
+        <name>TOČKA 111</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0587864828214" lon="14.438608981579">
+        <ele>378.936938896171</ele>
+        <time>2013-11-30T18:00:12.6624116</time>
+        <name>TOČKA 112</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0590189339398" lon="14.438672629534">
+        <ele>381.313042331704</ele>
+        <time>2013-11-30T18:00:14.9055399</time>
+        <name>TOČKA 113</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.059195567001" lon="14.4386951599488">
+        <ele>381.877878398225</ele>
+        <time>2013-11-30T18:00:17.35368</time>
+        <name>TOČKA 114</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0593988660587" lon="14.4387313151699">
+        <ele>382.058252265602</ele>
+        <time>2013-11-30T18:00:37.2358171</time>
+        <name>TOČKA 115</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0595696944082" lon="14.4387487322129">
+        <ele>382.653109206513</ele>
+        <time>2013-11-30T18:00:38.9359144</time>
+        <name>TOČKA 116</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0597158539752" lon="14.4385989438987">
+        <ele>383.676729506577</ele>
+        <time>2013-11-30T18:00:40.6220108</time>
+        <name>TOČKA 117</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.059888861558" lon="14.438374890873">
+        <ele>386.514692990697</ele>
+        <time>2013-11-30T18:00:47.2213883</time>
+        <name>TOČKA 118</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.060172075467" lon="14.437941309908">
+        <ele>396.13465227911</ele>
+        <time>2013-11-30T18:00:53.2217315</time>
+        <name>TOČKA 119</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0602451699943" lon="14.4377362817006">
+        <ele>397.638678637456</ele>
+        <time>2014-04-04T21:44:41.7550705</time>
+        <name>TOČKA 119 - TOČKA 120</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0603224097474" lon="14.43770771187">
+        <ele>397.958329890613</ele>
+        <time>2013-11-30T18:00:55.2618482</time>
+        <name>TOČKA 120</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0605170775827" lon="14.4376554135934">
+        <ele>397.320156747342</ele>
+        <time>2014-04-04T21:44:47.638407</time>
+        <name>TOČKA 120 - TOČKA 121</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0607695595008" lon="14.4374906493751">
+        <ele>396.041115909163</ele>
+        <time>2013-11-30T18:00:58.4450302</time>
+        <name>TOČKA 121</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0608751676411" lon="14.4373297955741">
+        <ele>398.517928479583</ele>
+        <time>2013-11-30T18:01:06.0134631</time>
+        <name>TOČKA 122</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0610367209633" lon="14.4369189259424">
+        <ele>401.761941503948</ele>
+        <time>2013-11-30T18:01:08.5136061</time>
+        <name>TOČKA 123</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0611593395773" lon="14.43677526588">
+        <ele>403.016380662942</ele>
+        <time>2016-05-03T13:48:37.1505245</time>
+        <name>TOČKA 123 - TOČKA 124</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0612742129714" lon="14.4367237722751">
+        <ele>404.12057955876</ele>
+        <time>2013-11-30T18:01:15.1249843</time>
+        <name>TOČKA 124</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0615207294372" lon="14.4366969582893">
+        <ele>408.135468628704</ele>
+        <time>2013-11-30T18:01:17.9971486</time>
+        <name>TOČKA 125</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0616960899266" lon="14.43658507316">
+        <ele>410.619656888661</ele>
+        <time>2013-11-30T18:01:20.4832908</time>
+        <name>TOČKA 126</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0618985191214" lon="14.4364440749291">
+        <ele>411.442686210632</ele>
+        <time>2013-11-30T18:01:24.9995491</time>
+        <name>TOČKA 127</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0622624878205" lon="14.4363819816958">
+        <ele>410.858432987183</ele>
+        <time>2013-11-30T18:01:28.2067325</time>
+        <name>TOČKA 128</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0626680115145" lon="14.436235447209">
+        <ele>409.215238431766</ele>
+        <time>2013-11-30T18:01:30.0698391</time>
+        <name>TOČKA 129</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0628334576435" lon="14.4361417534602">
+        <ele>409.781030355922</ele>
+        <time>2013-11-30T18:01:31.8379402</time>
+        <name>TOČKA 130</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0631475371838" lon="14.4358398260648">
+        <ele>412.428520841343</ele>
+        <time>2013-11-30T18:01:45.5227229</time>
+        <name>TOČKA 131</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0635413290306" lon="14.4357663531233">
+        <ele>415.227596059069</ele>
+        <time>2013-11-30T18:01:47.2648226</time>
+        <name>TOČKA 132</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0637449364204" lon="14.4358650249065">
+        <ele>417.62222039997</ele>
+        <time>2013-11-30T18:01:52.8431416</time>
+        <name>TOČKA 133</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0639765764467" lon="14.4362552102878">
+        <ele>419.897317919284</ele>
+        <time>2014-04-04T21:46:32.4123998</time>
+        <name>TOČKA 133 - TOČKA 134</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0640783714026" lon="14.4363028105643">
+        <ele>420.499317919239</ele>
+        <time>2013-11-30T18:01:54.8412559</time>
+        <name>TOČKA 134</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0641492315365" lon="14.4363309308162">
+        <ele>420.949630414322</ele>
+        <time>2013-11-30T18:01:56.6813612</time>
+        <name>TOČKA 135</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0645063941527" lon="14.43655205684">
+        <ele>415.469031371325</ele>
+        <time>2013-11-30T18:01:58.8194835</time>
+        <name>TOČKA 136</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0648548929886" lon="14.4366110520873">
+        <ele>409.935758932544</ele>
+        <time>2014-04-04T21:47:15.8868864</time>
+        <name>TOČKA 136 - TOČKA 136 - TOČKA 137</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0650745894221" lon="14.4365393476364">
+        <ele>407.724642301351</ele>
+        <time>2014-04-04T21:47:11.8216538</time>
+        <name>TOČKA 136 - TOČKA 137</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0655649506217" lon="14.4366802780595">
+        <ele>402.396374796083</ele>
+        <time>2013-11-30T18:02:02.9627204</time>
+        <name>TOČKA 137</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.066136570396" lon="14.4368724960493">
+        <ele>394.315253231302</ele>
+        <time>2013-11-30T18:02:10.5491544</time>
+        <name>TOČKA 138</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.06641384694" lon="14.4370791706265">
+        <ele>391.956535372138</ele>
+        <time>2013-11-30T18:02:12.0312391</time>
+        <name>TOČKA 139</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0666850141179" lon="14.4373237239946">
+        <ele>389</ele>
+        <time>2016-05-03T13:47:40.2452697</time>
+        <name>TOČKA 139 - TOČKA 140</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.066948805755" lon="14.4376851687507">
+        <ele>385.933587416586</ele>
+        <time>2013-11-30T18:02:15.8084552</time>
+        <name>TOČKA 140</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0671668097525" lon="14.4379372131758">
+        <ele>382.867740088201</ele>
+        <time>2016-05-03T13:47:34.218925</time>
+        <name>TOČKA 140 - TOČKA 141</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0673724314032" lon="14.438271460102">
+        <ele>381.582213438172</ele>
+        <time>2013-11-30T18:02:18.9256335</time>
+        <name>TOČKA 141</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.067494317989" lon="14.4384717198122">
+        <ele>384.239665361875</ele>
+        <time>2013-11-30T18:02:37.3066848</time>
+        <name>TOČKA 142</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0676630590621" lon="14.4385401449077">
+        <ele>387.709073917577</ele>
+        <time>2016-05-03T13:47:27.7565554</time>
+        <name>TOČKA 142 - TOČKA 142 - TOČKA 143</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0678736458936" lon="14.4385831792014">
+        <ele>390.41722078749</ele>
+        <time>2013-11-30T18:22:17.6241951</time>
+        <name>TOČKA 142 - TOČKA 143</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0681008355659" lon="14.4385600393532">
+        <ele>393.004446849467</ele>
+        <time>2013-11-30T18:02:39.337801</time>
+        <name>TOČKA 143</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0683117370297" lon="14.4384912509948">
+        <ele>397.876533053926</ele>
+        <time>2013-11-30T18:02:41.3269148</time>
+        <name>TOČKA 144</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0684120937927" lon="14.4384214058795">
+        <ele>398.110469057243</ele>
+        <time>2016-05-03T13:47:12.7946996</time>
+        <name>TOČKA 144 - TOČKA 145</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0685431842562" lon="14.4383499493219">
+        <ele>398.993001681468</ele>
+        <time>2013-11-30T18:02:42.9830095</time>
+        <name>TOČKA 145</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0686492445843" lon="14.4384572236567">
+        <ele>400.889238274452</ele>
+        <time>2013-11-30T18:02:44.7691116</time>
+        <name>TOČKA 146</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0686698046456" lon="14.4385293211392">
+        <ele>401.683739171475</ele>
+        <time>2013-11-30T18:02:44.950122</time>
+        <name>TOČKA 147</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.068670008736" lon="14.4385710079549">
+        <ele>402.079235232597</ele>
+        <time>2013-11-30T18:02:44.9721232</time>
+        <name>TOČKA 148</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0686809978437" lon="14.4390162286208">
+        <ele>402.524664934352</ele>
+        <time>2013-11-30T18:02:46.6242177</time>
+        <name>TOČKA 149</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0688183252496" lon="14.4394074133622">
+        <ele>401.588696133501</ele>
+        <time>2013-11-30T18:02:53.8856331</time>
+        <name>TOČKA 150</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0691488534943" lon="14.4397480145783">
+        <ele>399.053303491846</ele>
+        <time>2016-05-03T13:46:53.0005674</time>
+        <name>TOČKA 150 - TOČKA 151</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0695214642988" lon="14.4401118643643">
+        <ele>399.640700275668</ele>
+        <time>2013-11-30T18:02:56.6927936</time>
+        <name>TOČKA 151</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0697669866578" lon="14.4400579282722">
+        <ele>395.275361102326</ele>
+        <time>2016-05-03T13:46:34.320499</time>
+        <name>TOČKA 151 - TOČKA 152</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0699517320464" lon="14.4400797351285">
+        <ele>394.320777184442</ele>
+        <time>2013-11-30T18:02:59.7469683</time>
+        <name>TOČKA 152</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0702004525571" lon="14.4401855780039">
+        <ele>396.612378398851</ele>
+        <time>2016-05-03T13:46:38.8827599</time>
+        <name>TOČKA 152 - TOČKA 153</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0703794521399" lon="14.4401976710713">
+        <ele>395.229226689451</ele>
+        <time>2013-11-30T18:03:02.032099</time>
+        <name>TOČKA 153</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.070825363889" lon="14.4407171331506">
+        <ele>394.36382515014</ele>
+        <time>2013-11-30T18:03:03.7771988</time>
+        <name>TOČKA 154</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0710391300684" lon="14.440916486044">
+        <ele>393.368727702342</ele>
+        <time>2013-11-30T18:03:06.1543348</time>
+        <name>TOČKA 155</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0713154929118" lon="14.4410596229304">
+        <ele>390.252369585782</ele>
+        <time>2013-11-30T18:03:07.7364253</time>
+        <name>TOČKA 156</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0714893854676" lon="14.441016182413">
+        <ele>388.446369585842</ele>
+        <time>2013-11-30T18:03:09.1425057</time>
+        <name>TOČKA 157</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0717378294221" lon="14.4408886090638">
+        <ele>387.542130414173</ele>
+        <time>2013-11-30T18:03:15.6988807</time>
+        <name>TOČKA 158</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0718640733022" lon="14.4409915667348">
+        <ele>387.627675452176</ele>
+        <time>2013-11-30T18:03:17.2639702</time>
+        <name>TOČKA 159</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0720569758267" lon="14.4410562874067">
+        <ele>387.167495468557</ele>
+        <time>2016-05-03T13:45:44.8896717</time>
+        <name>TOČKA 159 - TOČKA 160</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.072296543699" lon="14.4410920943626">
+        <ele>386.069928455204</ele>
+        <time>2013-11-30T18:03:19.462096</time>
+        <name>TOČKA 160</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.07253624236" lon="14.4409778544267">
+        <ele>387.521939916992</ele>
+        <time>2013-11-30T18:03:25.1134192</time>
+        <name>TOČKA 161</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.072676649926" lon="14.4409388742648">
+        <ele>386.843861442059</ele>
+        <time>2016-05-03T13:45:29.7038031</time>
+        <name>TOČKA 161 - TOČKA 162</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0727919345557" lon="14.4407778948306">
+        <ele>386.645089748789</ele>
+        <time>2013-11-30T18:03:26.8975212</time>
+        <name>TOČKA 162</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0728194084378" lon="14.4404614539171">
+        <ele>388.441922827512</ele>
+        <time>2013-11-30T18:03:28.2856006</time>
+        <name>TOČKA 163</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0728873428" lon="14.4400125800955">
+        <ele>388.209019480828</ele>
+        <time>2013-11-30T18:03:30.0677026</time>
+        <name>TOČKA 164</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0731238898164" lon="14.4394299787208">
+        <ele>386.128670561761</ele>
+        <time>2013-11-30T18:03:32.2648282</time>
+        <name>TOČKA 165</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0733210783377" lon="14.4392056295335">
+        <ele>386.31048757486</ele>
+        <time>2013-11-30T18:03:33.6019047</time>
+        <name>TOČKA 166</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0735722633562" lon="14.4388973482813">
+        <ele>385.164378328785</ele>
+        <time>2013-11-30T18:03:35.3880069</time>
+        <name>TOČKA 167</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0736528598507" lon="14.4385664675423">
+        <ele>386.230598734314</ele>
+        <time>2016-05-03T13:44:56.0758797</time>
+        <name>TOČKA 167 - TOČKA 168</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0737556938084" lon="14.4383326439413">
+        <ele>386.590613707751</ele>
+        <time>2013-11-30T18:03:37.0621026</time>
+        <name>TOČKA 168</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0738867089726" lon="14.4379282887833">
+        <ele>387.557566056242</ele>
+        <time>2013-11-30T18:03:38.9762121</time>
+        <name>TOČKA 169</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0741488736753" lon="14.4376407339029">
+        <ele>387.959838096111</ele>
+        <time>2013-11-30T18:03:46.1416219</time>
+        <name>TOČKA 170</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.074289132078" lon="14.4371494199368">
+        <ele>388.552059251186</ele>
+        <time>2016-05-03T13:44:38.1238529</time>
+        <name>TOČKA 170 - TOČKA 170 - TOČKA 171</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0744864354316" lon="14.4369493777651">
+        <ele>388.057987574786</ele>
+        <time>2016-05-03T13:44:33.1015657</time>
+        <name>TOČKA 170 - TOČKA 171</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0746322096464" lon="14.4365969809769">
+        <ele>388.576017785981</ele>
+        <time>2013-11-30T18:03:48.2977453</time>
+        <name>TOČKA 171</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0748331695866" lon="14.4361571607451">
+        <ele>386.605151293279</ele>
+        <time>2013-11-30T18:03:51.561932</time>
+        <name>TOČKA 172</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0750098453105" lon="14.4356967371806">
+        <ele>381.943185252845</ele>
+        <time>2013-11-30T18:03:53.4790416</time>
+        <name>TOČKA 173</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0750940818187" lon="14.4356159684606">
+        <ele>380.34262711584</ele>
+        <time>2016-05-03T13:44:19.6167944</time>
+        <name>TOČKA 173 - TOČKA 174</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0752566635018" lon="14.4355567630232">
+        <ele>379.304981124699</ele>
+        <time>2013-11-30T18:03:55.6811676</time>
+        <name>TOČKA 174</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0752566635018" lon="14.4355567630232">
+        <ele>379.304981124699</ele>
+        <time>2013-10-09T23:20:04.3703272</time>
+        <name>TOČKA 124</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0755646601009" lon="14.4352068413462">
+        <ele>382.930989966094</ele>
+        <time>2013-10-09T23:20:07.058481</time>
+        <name>TOČKA 125</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0762289099046" lon="14.4345677194157">
+        <ele>386.217057949081</ele>
+        <time>2013-10-09T23:20:12.042766</time>
+        <name>TOČKA 126</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.077519980782" lon="14.4335469337268">
+        <ele>390</ele>
+        <time>2013-10-09T23:20:15.7539783</time>
+        <name>TOČKA 127</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.078383779839" lon="14.4326764024802">
+        <ele>393</ele>
+        <time>2013-10-09T23:20:31.8268976</time>
+        <name>TOČKA 128</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0785517668737" lon="14.432417559202">
+        <ele>393.146994983032</ele>
+        <time>2013-10-09T23:20:33.7230061</time>
+        <name>TOČKA 129</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0786567823475" lon="14.4321385099842">
+        <ele>393.18036962515</ele>
+        <time>2013-10-09T23:20:35.53911</time>
+        <name>TOČKA 130</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0787183421747" lon="14.4318738030583">
+        <ele>393.410327411265</ele>
+        <time>2013-10-09T23:20:37.7142344</time>
+        <name>TOČKA 131</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0787170218022" lon="14.4313416088895">
+        <ele>393.327417142391</ele>
+        <time>2013-10-09T23:20:39.3543282</time>
+        <name>TOČKA 132</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0787979926411" lon="14.4310906007797">
+        <ele>394.25390378803</ele>
+        <time>2013-10-09T23:20:41.2184348</time>
+        <name>TOČKA 133</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0790619367163" lon="14.4306778794112">
+        <ele>394.724859896166</ele>
+        <time>2013-10-09T23:20:43.5625689</time>
+        <name>TOČKA 134</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0791809725662" lon="14.4303013879875">
+        <ele>395.83470857121</ele>
+        <time>2013-10-09T23:20:45.6266869</time>
+        <name>TOČKA 135</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0792272602298" lon="14.4298839448566">
+        <ele>396.26470857121</ele>
+        <time>2013-10-09T23:20:48.0278243</time>
+        <name>TOČKA 136</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0794914764581" lon="14.429526807755">
+        <ele>403.197388383099</ele>
+        <time>2013-10-10T12:24:47.9875548</time>
+        <name>TOČKA 136 - TOČKA 137</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0798712360435" lon="14.4290642363066">
+        <ele>408.053417142332</ele>
+        <time>2013-10-10T12:23:38.6815907</time>
+        <name>TOČKA 137</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0800258488731" lon="14.4290348485001">
+        <ele>411.136639564248</ele>
+        <time>2013-10-10T12:23:41.396746</time>
+        <name>TOČKA 138</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0802528283084" lon="14.4289699684642">
+        <ele>416.271125713587</ele>
+        <time>2013-10-10T12:23:43.6848769</time>
+        <name>TOČKA 139</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0804645382899" lon="14.4287523531134">
+        <ele>422.914769801207</ele>
+        <time>2013-10-10T12:23:46.3570297</time>
+        <name>TOČKA 140</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0805934474887" lon="14.4284174442058">
+        <ele>426.409985981694</ele>
+        <time>2013-10-10T12:23:48.1731336</time>
+        <name>TOČKA 141</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.080678485324" lon="14.4280134890073">
+        <ele>427.206008678373</ele>
+        <time>2013-10-10T12:23:50.7882832</time>
+        <name>TOČKA 142</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0811265319253" lon="14.4276683383215">
+        <ele>436.76456341094</ele>
+        <time>2013-10-10T12:23:56.3566017</time>
+        <name>TOČKA 143</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0812032484356" lon="14.4275355029778">
+        <ele>437.944526717771</ele>
+        <time>2013-10-10T12:23:58.8367435</time>
+        <name>TOČKA 144</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0812896020353" lon="14.4273956181646">
+        <ele>439.229708281595</ele>
+        <time>2013-10-10T12:24:01.4688941</time>
+        <name>TOČKA 145</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0814606196975" lon="14.4272618094551">
+        <ele>443.558547616073</ele>
+        <time>2013-10-10T12:25:15.5571317</time>
+        <name>TOČKA 147</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0815621057117" lon="14.4272468632228">
+        <ele>446.037638647986</ele>
+        <time>2013-10-10T12:25:17.3172324</time>
+        <name>TOČKA 148</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0816748945944" lon="14.4275584399801">
+        <ele>448.949715234295</ele>
+        <time>2013-10-10T12:25:21.8444913</time>
+        <name>TOČKA 149</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0818590778284" lon="14.4276399389572">
+        <ele>451.292669003747</ele>
+        <time>2013-10-10T12:25:25.2526862</time>
+        <name>TOČKA 150</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0820532103808" lon="14.4277769345512">
+        <ele>453.397304603544</ele>
+        <time>2013-10-10T12:25:28.500872</time>
+        <name>TOČKA 151</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0821791190592" lon="14.4278103863171">
+        <ele>454.60220857121</ele>
+        <time>2013-10-10T12:25:31.3730363</time>
+        <name>TOČKA 152</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0822705517227" lon="14.4277190960825">
+        <ele>455</ele>
+        <time>2013-10-10T12:25:33.1811397</time>
+        <name>TOČKA 153</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0822697886337" lon="14.4275662071586">
+        <ele>455.172452793987</ele>
+        <time>2013-10-10T12:25:34.7892317</time>
+        <name>TOČKA 154</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.082118416115" lon="14.4272758745086">
+        <ele>456.093681526585</ele>
+        <time>2013-10-10T12:25:39.9645277</time>
+        <name>TOČKA 155</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0820789993733" lon="14.4271303346096">
+        <ele>457.975957205594</ele>
+        <time>2013-10-10T12:25:44.1887693</time>
+        <name>TOČKA 156</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0820383320469" lon="14.426734614123">
+        <ele>463.306726744285</ele>
+        <time>2013-10-10T12:25:47.1249373</time>
+        <name>TOČKA 157</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0820663402134" lon="14.4265327799548">
+        <ele>464.443135923544</ele>
+        <time>2013-10-10T12:25:49.3010617</time>
+        <name>TOČKA 158</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0821041590245" lon="14.4263586435635">
+        <ele>466.000751589303</ele>
+        <time>2013-10-10T12:25:51.7732031</time>
+        <name>TOČKA 159</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0821808739803" lon="14.4262258040598">
+        <ele>468.201208470926</ele>
+        <time>2013-10-10T12:25:53.6443101</time>
+        <name>TOČKA 160</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0823887164338" lon="14.4262028068659">
+        <ele>472.381925209552</ele>
+        <time>2013-10-10T12:25:55.4444131</time>
+        <name>TOČKA 161</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0824656051032" lon="14.4261047140572">
+        <ele>474.25933067731</ele>
+        <time>2013-10-10T12:25:57.8285495</time>
+        <name>TOČKA 162</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0825078069163" lon="14.42584018231">
+        <ele>475.400699804747</ele>
+        <time>2013-10-10T12:26:00.3166918</time>
+        <name>TOČKA 163</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0827045851096" lon="14.4255393015798">
+        <ele>478.988491991648</ele>
+        <time>2013-10-10T12:26:02.5568199</time>
+        <name>TOČKA 164</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0828046082591" lon="14.4252324702716">
+        <ele>481.352768632318</ele>
+        <time>2013-10-10T12:26:05.0369618</time>
+        <name>TOČKA 165</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0828992020731" lon="14.4248075452166">
+        <ele>485.393390495405</ele>
+        <time>2013-10-10T12:26:09.3732098</time>
+        <name>TOČKA 166</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0828592940071" lon="14.4245647111215">
+        <ele>486.203969396008</ele>
+        <time>2013-10-10T12:26:13.5244472</time>
+        <name>TOČKA 167</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0827905091589" lon="14.4243499764293">
+        <ele>489.336870600126</ele>
+        <time>2013-10-10T12:26:15.7965772</time>
+        <name>TOČKA 168</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0827369995012" lon="14.4242879819381">
+        <ele>490.719811911482</ele>
+        <time>2013-10-10T12:26:18.4127268</time>
+        <name>TOČKA 169</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0826159955926" lon="14.4242683868001">
+        <ele>494.088454412445</ele>
+        <time>2013-10-10T12:26:21.3808966</time>
+        <name>TOČKA 170</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0824132686446" lon="14.4243469373028">
+        <ele>497.19510821096</ele>
+        <time>2013-10-10T12:26:24.3170645</time>
+        <name>TOČKA 171</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0822112740497" lon="14.4245714264147">
+        <ele>496.229230569441</ele>
+        <time>2013-10-10T12:26:29.2923491</time>
+        <name>TOČKA 172</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0820952107659" lon="14.4245726291295">
+        <ele>496.926943613584</ele>
+        <time>2013-10-10T12:26:32.7885491</time>
+        <name>TOČKA 173</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.081959489731" lon="14.4245114872032">
+        <ele>498.633930496722</ele>
+        <time>2013-10-10T12:26:34.9566731</time>
+        <name>TOČKA 174</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0819298809559" lon="14.4243936472614">
+        <ele>498.848930496797</ele>
+        <time>2013-10-10T12:26:37.2928067</time>
+        <name>TOČKA 175</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0819437957906" lon="14.4242753561992">
+        <ele>498.328209002223</ele>
+        <time>2013-10-10T12:26:40.0289632</time>
+        <name>TOČKA 176</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0821988807657" lon="14.4240294669112">
+        <ele>502.757920385214</ele>
+        <time>2013-10-10T12:26:41.6930584</time>
+        <name>TOČKA 177</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0823913071049" lon="14.4238259247647">
+        <ele>506.153807576001</ele>
+        <time>2013-10-10T12:26:43.6611709</time>
+        <name>TOČKA 178</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0826588721503" lon="14.4231768074667">
+        <ele>514.261233513386</ele>
+        <time>2013-10-10T12:26:47.3003791</time>
+        <name>TOČKA 179</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0831060291475" lon="14.422657865374">
+        <ele>520.502311680707</ele>
+        <time>2013-10-10T12:26:49.8125228</time>
+        <name>TOČKA 180</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0834419214532" lon="14.4221331227908">
+        <ele>528.922233043516</ele>
+        <time>2013-10-10T12:26:54.0367644</time>
+        <name>TOČKA 181</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0835909957858" lon="14.4219647708667">
+        <ele>533.850760378601</ele>
+        <time>2013-10-10T12:26:58.5010197</time>
+        <name>TOČKA 182</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0837585024885" lon="14.4216155250174">
+        <ele>533.509069522586</ele>
+        <time>2013-10-10T12:27:00.7571488</time>
+        <name>TOČKA 183</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0839551641992" lon="14.4212937734305">
+        <ele>539.900138240358</ele>
+        <time>2013-10-10T12:27:03.3722984</time>
+        <name>TOČKA 184</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0839834784521" lon="14.4211544769356">
+        <ele>540.632271595081</ele>
+        <time>2013-10-10T12:27:06.180459</time>
+        <name>TOČKA 185</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0839769931975" lon="14.420827891315">
+        <ele>541.168572106495</ele>
+        <time>2013-10-10T12:27:08.4445885</time>
+        <name>TOČKA 186</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0840312048618" lon="14.4205498077058">
+        <ele>545.912710623148</ele>
+        <time>2013-10-10T12:27:47.5008224</time>
+        <name>TOČKA 187</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0840822574827" lon="14.4201253199235">
+        <ele>548.350542853428</ele>
+        <time>2013-10-10T12:27:51.9570772</time>
+        <name>TOČKA 188</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.08382162548" lon="14.4192731857892">
+        <ele>552.36479044533</ele>
+        <time>2013-10-10T12:27:55.5642836</time>
+        <name>TOČKA 189</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0834235978294" lon="14.4189854487177">
+        <ele>552.216193430833</ele>
+        <time>2013-10-10T12:28:00.1245444</time>
+        <name>TOČKA 190</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0833647210279" lon="14.4188192649966">
+        <ele>551.637125713676</ele>
+        <time>2013-10-10T12:28:02.3166698</time>
+        <name>TOČKA 191</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0834445362751" lon="14.4183458294384">
+        <ele>552.553417142481</ele>
+        <time>2013-10-10T12:28:04.4287906</time>
+        <name>TOČKA 192</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0836076544286" lon="14.4180869698479">
+        <ele>554.108390433788</ele>
+        <time>2013-10-10T12:28:08.5330253</time>
+        <name>TOČKA 193</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0836076544286" lon="14.4180869698479">
+        <ele>554.108390433788</ele>
+        <time>2013-10-10T12:28:08.5330253</time>
+        <name>TOČKA 193</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0837366026747" lon="14.4177659166502">
+        <ele>552.508237451742</ele>
+        <time>2013-10-10T12:28:15.2924119</time>
+        <name>TOČKA 194</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0841997214" lon="14.4165864938957">
+        <ele>546.080454665629</ele>
+        <time>2013-10-10T12:28:20.1646906</time>
+        <name>TOČKA 195</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0844571128402" lon="14.4158470756081">
+        <ele>541.678964027199</ele>
+        <time>2013-10-10T12:28:22.2768114</time>
+        <name>TOČKA 196</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0845846374338" lon="14.415248021414">
+        <ele>544.475612359494</ele>
+        <time>2013-10-10T12:28:24.1009158</time>
+        <name>TOČKA 197</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0848033324695" lon="14.4145089998023">
+        <ele>541.576390433758</ele>
+        <time>2013-10-10T12:28:26.2130366</time>
+        <name>TOČKA 198</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.084912429613" lon="14.4140908381378">
+        <ele>541.252011357997</ele>
+        <time>2013-10-10T12:28:33.8044708</time>
+        <name>TOČKA 199</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0848797895079" lon="14.4133822639791">
+        <ele>543.283465754029</ele>
+        <time>2013-10-10T12:28:44.4270784</time>
+        <name>TOČKA 200</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0850033192273" lon="14.4129500465139">
+        <ele>543.868264720142</ele>
+        <time>2013-10-10T12:28:46.3411878</time>
+        <name>TOČKA 201</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0849682575338" lon="14.4127141106606">
+        <ele>542.016021081462</ele>
+        <time>2013-10-10T12:28:48.65232</time>
+        <name>TOČKA 202</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0848364405945" lon="14.4124722488018">
+        <ele>540.190729594289</ele>
+        <time>2013-10-10T12:28:51.7084948</time>
+        <name>TOČKA 203</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.084821184825" lon="14.4123264565633">
+        <ele>538.647281714591</ele>
+        <time>2013-10-10T12:28:53.7086092</time>
+        <name>TOČKA 204</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0849822930027" lon="14.4116783830827">
+        <ele>530.864549357919</ele>
+        <time>2013-10-10T12:28:55.5327136</time>
+        <name>TOČKA 205</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0849709446939" lon="14.4113518442184">
+        <ele>531.447067341818</ele>
+        <time>2013-10-10T12:28:59.4449373</time>
+        <name>TOČKA 206</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0849051859685" lon="14.4107895763772">
+        <ele>532.098907542177</ele>
+        <time>2013-10-10T12:29:01.6130613</time>
+        <name>TOČKA 207</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0850178543462" lon="14.4101281116723">
+        <ele>531</ele>
+        <time>2013-10-10T12:29:05.5482864</time>
+        <name>TOČKA 208</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0851316998076" lon="14.4096959888197">
+        <ele>533.999026708603</ele>
+        <time>2013-10-10T12:29:07.9104215</time>
+        <name>TOČKA 209</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0851064106916" lon="14.4094808011612">
+        <ele>535.832513354346</ele>
+        <time>2013-10-10T12:29:11.2286113</time>
+        <name>TOČKA 210</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0850426125532" lon="14.4093007744589">
+        <ele>537.797735279873</ele>
+        <time>2013-10-10T12:29:13.2207253</time>
+        <name>TOČKA 211</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.084932925929" lon="14.4086625240558">
+        <ele>546.438103882899</ele>
+        <time>2013-10-10T12:29:18.357019</time>
+        <name>TOČKA 212</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.084927552241" lon="14.4083621068547">
+        <ele>550.281152422652</ele>
+        <time>2013-10-10T12:29:51.7469288</time>
+        <name>TOČKA 213</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0849622568408" lon="14.4075902655937">
+        <ele>557.799221925661</ele>
+        <time>2013-10-10T12:29:55.4691417</time>
+        <name>TOČKA 214</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0850380517875" lon="14.4072836479098">
+        <ele>560.327930497006</ele>
+        <time>2013-10-10T12:29:56.9812282</time>
+        <name>TOČKA 215</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0851676523725" lon="14.407094608375">
+        <ele>562.701221925765</ele>
+        <time>2013-10-10T12:29:58.516316</time>
+        <name>TOČKA 216</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0854421155067" lon="14.4068623188646">
+        <ele>565.560708571225</ele>
+        <time>2013-10-10T12:30:01.156467</time>
+        <name>TOČKA 217</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0855522277125" lon="14.406645684161">
+        <ele>566.034151116133</ele>
+        <time>2013-10-10T12:30:06.3007613</time>
+        <name>TOČKA 218</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0856713637386" lon="14.4063038470329">
+        <ele>568.530856696583</ele>
+        <time>2013-10-10T12:30:08.2768743</time>
+        <name>TOČKA 219</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0857851946666" lon="14.4058717113402">
+        <ele>571.55031896641</ele>
+        <time>2013-10-10T12:30:11.2850463</time>
+        <name>TOČKA 220</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0858862094139" lon="14.405766375657">
+        <ele>573.224420768455</ele>
+        <time>2013-10-10T12:30:14.8612509</time>
+        <name>TOČKA 221</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0860548913447" lon="14.4056533648308">
+        <ele>574</ele>
+        <time>2013-10-10T12:30:17.9964302</time>
+        <name>TOČKA 222</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0861991411694" lon="14.4054919624887">
+        <ele>573.717031091006</ele>
+        <time>2013-10-10T12:30:19.8945388</time>
+        <name>TOČKA 223</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0862709956824" lon="14.4053591362149">
+        <ele>573.744046288963</ele>
+        <time>2013-10-10T12:30:22.3086769</time>
+        <name>TOČKA 224</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0863179852406" lon="14.4050945190843">
+        <ele>572.032913375064</ele>
+        <time>2013-10-10T12:30:28.0370045</time>
+        <name>TOČKA 225</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0864088584623" lon="14.404898934781">
+        <ele>572.059681862369</ele>
+        <time>2013-10-10T12:30:32.8922822</time>
+        <name>TOČKA 226</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0866326477845" lon="14.4046880237361">
+        <ele>570.986764719859</ele>
+        <time>2013-10-10T12:30:44.5489489</time>
+        <name>TOČKA 227</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0869644874161" lon="14.4043299925317">
+        <ele>565.483668507859</ele>
+        <time>2013-10-10T12:30:46.2530464</time>
+        <name>TOČKA 228</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0870172495477" lon="14.4042460209703">
+        <ele>564.437698405668</ele>
+        <time>2013-10-10T12:30:48.1411544</time>
+        <name>TOČKA 229</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0870789611021" lon="14.4040229440099">
+        <ele>561.661811726564</ele>
+        <time>2013-10-10T12:30:49.7812482</time>
+        <name>TOČKA 230</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0871880919563" lon="14.4036186449839">
+        <ele>559.77457112239</ele>
+        <time>2013-10-10T12:30:53.3644532</time>
+        <name>TOČKA 231</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0873031061887" lon="14.4034158452431">
+        <ele>559.26620857127</ele>
+        <time>2013-10-10T12:30:56.316622</time>
+        <name>TOČKA 232</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0877840961369" lon="14.4029102366507">
+        <ele>565.305513354465</ele>
+        <time>2013-10-10T12:31:00.7168737</time>
+        <name>TOČKA 233</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878847822642" lon="14.4027423402091">
+        <ele>566.337513354421</ele>
+        <time>2013-10-10T12:31:02.3329661</time>
+        <name>TOČKA 234</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0879371086773" lon="14.4025749636124">
+        <ele>567.36951335445</ele>
+        <time>2013-10-10T12:31:05.0291203</time>
+        <name>TOČKA 235</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0879357684947" lon="14.4023178070633">
+        <ele>568</ele>
+        <time>2013-10-10T12:31:07.8442814</time>
+        <name>TOČKA 236</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0880158050727" lon="14.4018999107057">
+        <ele>567.309330348172</ele>
+        <time>2013-10-10T12:31:09.900399</time>
+        <name>TOČKA 237</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.087984983714" lon="14.4006282879178">
+        <ele>562</ele>
+        <time>2013-10-10T12:31:13.76462</time>
+        <name>TOČKA 238</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0880077461769" lon="14.4003569696796">
+        <ele>562.41330478318</ele>
+        <time>2013-10-10T12:31:15.8047367</time>
+        <name>TOČKA 239</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.088165950791" lon="14.4000911380537">
+        <ele>562.668971225909</ele>
+        <time>2013-10-10T12:31:19.7489623</time>
+        <name>TOČKA 240</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0885116649514" lon="14.3996147583519">
+        <ele>565.45630478315</ele>
+        <time>2013-10-10T12:31:24.3732268</time>
+        <name>TOČKA 241</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0886263807271" lon="14.3993563434036">
+        <ele>565.963442723912</ele>
+        <time>2013-10-10T12:31:29.2285045</time>
+        <name>TOČKA 242</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0886587391828" lon="14.3990710162946">
+        <ele>566.478016576319</ele>
+        <time>2013-10-10T12:31:30.9726042</time>
+        <name>TOČKA 243</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0886469173803" lon="14.3986610555516">
+        <ele>565.564791428745</ele>
+        <time>2013-10-10T12:31:34.1727873</time>
+        <name>TOČKA 244</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0886160056665" lon="14.3982999564961">
+        <ele>565.010788282224</ele>
+        <time>2013-10-10T12:31:36.8209387</time>
+        <name>TOČKA 245</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.088652686508" lon="14.3979172727455">
+        <ele>563.407639498282</ele>
+        <time>2013-10-10T12:31:40.6771593</time>
+        <name>TOČKA 246</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0886467189574" lon="14.3977018671264">
+        <ele>562.798594813388</ele>
+        <time>2013-10-10T12:31:42.7242764</time>
+        <name>TOČKA 247</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0885510304158" lon="14.3974387809112">
+        <ele>563.29407304864</ele>
+        <time>2013-10-10T12:32:18.4753212</time>
+        <name>TOČKA 248</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0884291455306" lon="14.397252437015">
+        <ele>564.170778074264</ele>
+        <time>2013-10-10T12:32:20.9404622</time>
+        <name>TOČKA 249</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0883604922438" lon="14.3970724663599">
+        <ele>563.65477807425</ele>
+        <time>2013-10-10T12:32:23.3886022</time>
+        <name>TOČKA 250</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0881473161018" lon="14.3960808469285">
+        <ele>566.712145233131</ele>
+        <time>2013-10-10T12:32:26.9488059</time>
+        <name>TOČKA 251</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0880835701564" lon="14.3959147264039">
+        <ele>568.89938764058</ele>
+        <time>2013-10-10T12:32:28.5979002</time>
+        <name>TOČKA 252</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.087952120807" lon="14.3957493432525">
+        <ele>573.425165714622</ele>
+        <time>2013-10-10T12:32:31.6050722</time>
+        <name>TOČKA 253</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878688474242" lon="14.3955486835246">
+        <ele>575.50665236026</ele>
+        <time>2013-10-10T12:32:33.7881971</time>
+        <name>TOČKA 254</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878192786571" lon="14.3953198550525">
+        <ele>575.574943788946</ele>
+        <time>2013-10-10T12:32:36.7403659</time>
+        <name>TOČKA 255</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878031943079" lon="14.3950211565909">
+        <ele>575.684217886981</ele>
+        <time>2013-10-10T12:32:38.8524867</time>
+        <name>TOČKA 256</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878392403032" lon="14.3945203237715">
+        <ele>574.564416487149</ele>
+        <time>2013-10-10T12:32:41.2766254</time>
+        <name>TOČKA 257</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.087753246692" lon="14.3938053557014">
+        <ele>576.849874286056</ele>
+        <time>2013-10-10T12:32:44.5248112</time>
+        <name>TOČKA 258</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0877465729029" lon="14.3934579014086">
+        <ele>578.18178993712</ele>
+        <time>2013-10-10T12:32:46.356916</time>
+        <name>TOČKA 259</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878849394108" lon="14.3931019108805">
+        <ele>581.800147558296</ele>
+        <time>2013-10-10T12:32:49.3970898</time>
+        <name>TOČKA 260</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0879030320815" lon="14.3928653939181">
+        <ele>585.107283215334</ele>
+        <time>2013-10-10T12:32:51.5412125</time>
+        <name>TOČKA 261</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878188699552" lon="14.3924979351644">
+        <ele>588.34512020113</ele>
+        <time>2013-10-10T12:32:53.6763346</time>
+        <name>TOČKA 262</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0876485440148" lon="14.3922982338441">
+        <ele>588.727560338227</ele>
+        <time>2013-10-10T12:32:56.5084966</time>
+        <name>TOČKA 263</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0875703216306" lon="14.3921392282142">
+        <ele>589.12422192581</ele>
+        <time>2013-10-10T12:32:59.4606654</time>
+        <name>TOČKA 264</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0875696214491" lon="14.3920071759761">
+        <ele>589.168708571345</ele>
+        <time>2013-10-10T12:33:03.0848727</time>
+        <name>TOČKA 265</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0876854628002" lon="14.3919642039406">
+        <ele>589.99387570822</ele>
+        <time>2013-10-10T12:33:05.7570256</time>
+        <name>TOČKA 266</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0877966893535" lon="14.3919629855757">
+        <ele>590.527035069628</ele>
+        <time>2013-10-10T12:33:10.0612718</time>
+        <name>TOČKA 267</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0880430272538" lon="14.391904682542">
+        <ele>597.148125713989</ele>
+        <time>2013-10-10T12:33:17.2606835</time>
+        <name>TOČKA 268</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0881730076939" lon="14.3917920490361">
+        <ele>599.515184263546</ele>
+        <time>2013-10-10T12:33:19.4768103</time>
+        <name>TOČKA 269</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0882109577184" lon="14.3916526211724">
+        <ele>599.784118228794</ele>
+        <time>2013-10-10T12:33:21.6129325</time>
+        <name>TOČKA 270</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0881999942756" lon="14.3904989416325">
+        <ele>612.829238261871</ele>
+        <time>2013-10-10T12:33:24.2050807</time>
+        <name>TOČKA 271</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0881554361554" lon="14.3903048142441">
+        <ele>615.771166768027</ele>
+        <time>2013-10-10T12:33:26.7572267</time>
+        <name>TOČKA 272</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0881115431218" lon="14.3902357904713">
+        <ele>616.487242802985</ele>
+        <time>2013-10-10T12:33:29.1883658</time>
+        <name>TOČKA 273</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878982814067" lon="14.3901477758804">
+        <ele>615.893943625264</ele>
+        <time>2013-10-10T12:33:33.3806056</time>
+        <name>TOČKA 274</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878060289252" lon="14.3900792839242">
+        <ele>615.975967919093</ele>
+        <time>2013-10-10T12:33:35.836746</time>
+        <name>TOČKA 275</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0877329722316" lon="14.3899827790808">
+        <ele>615.721152422726</ele>
+        <time>2013-10-10T12:33:41.0080418</time>
+        <name>TOČKA 276</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.087678482426" lon="14.3897401091769">
+        <ele>617.312152422816</ele>
+        <time>2013-10-10T12:33:43.965211</time>
+        <name>TOČKA 277</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0876530077169" lon="14.3894971206292">
+        <ele>619.373155302207</ele>
+        <time>2013-10-10T12:33:47.1173913</time>
+        <name>TOČKA 278</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0876512678581" lon="14.3891704647732">
+        <ele>621.057417142689</ele>
+        <time>2013-10-10T12:33:49.8605482</time>
+        <name>TOČKA 279</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0876881774925" lon="14.3888364328596">
+        <ele>621.364903788269</ele>
+        <time>2013-10-10T12:33:53.2047394</time>
+        <name>TOČKA 280</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0877587523363" lon="14.3884672769015">
+        <ele>621.387582827489</ele>
+        <time>2013-10-10T12:33:55.4688689</time>
+        <name>TOČKA 281</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0877957340913" lon="14.3881471441725">
+        <ele>621.31649783283</ele>
+        <time>2013-10-10T12:33:59.0130716</time>
+        <name>TOČKA 282</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.087780076282" lon="14.3879318497794">
+        <ele>619.953459135755</ele>
+        <time>2013-10-10T12:34:01.3572057</time>
+        <name>TOČKA 283</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878314158384" lon="14.3875837559462">
+        <ele>620.996612359509</ele>
+        <time>2013-10-10T12:34:04.9004084</time>
+        <name>TOČKA 284</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878882588232" lon="14.3873607108202">
+        <ele>621.167066321112</ele>
+        <time>2013-10-10T12:34:09.9166953</time>
+        <name>TOČKA 285</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.088012692968" lon="14.3871160672145">
+        <ele>624.67941714257</ele>
+        <time>2013-10-10T12:34:11.7087978</time>
+        <name>TOČKA 286</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0880841171622" lon="14.3869067609878">
+        <ele>625.96941714257</ele>
+        <time>2013-10-10T12:34:14.0239302</time>
+        <name>TOČKA 287</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0880188333576" lon="14.3864556945011">
+        <ele>625.326809591803</ele>
+        <time>2013-10-10T12:34:16.957098</time>
+        <name>TOČKA 288</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0879980837609" lon="14.386193256762">
+        <ele>625.687934179347</ele>
+        <time>2013-10-10T12:36:17.5319945</time>
+        <name>TOČKA 289</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0880522428661" lon="14.385469797297">
+        <ele>629.07883428514</ele>
+        <time>2013-10-10T12:36:19.4611048</time>
+        <name>TOČKA 290</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0880222212834" lon="14.3852824640567">
+        <ele>628.567638076114</ele>
+        <time>2013-10-10T12:36:21.9562475</time>
+        <name>TOČKA 291</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.087943840087" lon="14.3850956667526">
+        <ele>627.303917080038</ele>
+        <time>2013-10-10T12:36:24.3653853</time>
+        <name>TOČKA 292</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.087913221239" lon="14.3847971316618">
+        <ele>628.971860994101</ele>
+        <time>2013-10-10T12:36:27.3405555</time>
+        <name>TOČKA 293</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878294810032" lon="14.3845130870645">
+        <ele>629.641063018608</ele>
+        <time>2013-10-10T12:36:29.6846896</time>
+        <name>TOČKA 294</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0878333840139" lon="14.3843392799141">
+        <ele>630.7318744095</ele>
+        <time>2013-10-10T12:36:31.3247834</time>
+        <name>TOČKA 295</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0879387666232" lon="14.3841504456967">
+        <ele>630.763168507814</ele>
+        <time>2013-10-10T12:36:33.3889014</time>
+        <name>TOČKA 296</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0880449330702" lon="14.3841075642688">
+        <ele>630.464481437446</ele>
+        <time>2013-10-10T12:36:35.7890387</time>
+        <name>TOČKA 297</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0884173369882" lon="14.3841103826634">
+        <ele>636.31885037005</ele>
+        <time>2013-10-10T12:36:38.0211664</time>
+        <name>TOČKA 298</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0885623401967" lon="14.3840948723956">
+        <ele>638.596925231122</ele>
+        <time>2013-10-10T12:36:40.6213151</time>
+        <name>TOČKA 299</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0890110359785" lon="14.3838952737375">
+        <ele>634.84891987294</ele>
+        <time>2013-10-10T12:36:42.4124176</time>
+        <name>TOČKA 300</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0892044731261" lon="14.3838931265338">
+        <ele>634.7845964313</ele>
+        <time>2013-10-10T12:36:44.8925594</time>
+        <name>TOČKA 301</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0893934104742" lon="14.3839535860155">
+        <ele>636.866379833788</ele>
+        <time>2013-10-10T12:36:46.9886793</time>
+        <name>TOČKA 302</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0897722930706" lon="14.3842621665703">
+        <ele>646.123697947338</ele>
+        <time>2013-10-10T12:36:50.2608665</time>
+        <name>TOČKA 303</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0899321026688" lon="14.3843020985664">
+        <ele>647.590115089715</ele>
+        <time>2013-10-10T12:36:52.2529804</time>
+        <name>TOČKA 304</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0900477543391" lon="14.3842243564504">
+        <ele>645.311115089953</ele>
+        <time>2013-10-10T12:36:54.117087</time>
+        <name>TOČKA 305</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0902014212733" lon="14.3840210768425">
+        <ele>637.904492493232</ele>
+        <time>2013-10-10T12:36:56.9092467</time>
+        <name>TOČKA 306</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0903652079251" lon="14.3839010942254">
+        <ele>634.844088381231</ele>
+        <time>2013-10-10T12:37:00.0204247</time>
+        <name>TOČKA 307</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0907080731811" lon="14.3838069262627">
+        <ele>634.483812704504</ele>
+        <time>2013-10-10T12:37:02.3565583</time>
+        <name>TOČKA 308</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0909494212297" lon="14.3837208353314">
+        <ele>631.368406518847</ele>
+        <time>2013-10-10T12:37:04.2846686</time>
+        <name>TOČKA 309</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0912920247086" lon="14.3835780112011">
+        <ele>627.012919873297</ele>
+        <time>2013-10-10T12:37:06.5407976</time>
+        <name>TOČKA 310</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0914220341164" lon="14.3834723021181">
+        <ele>623.969628444612</ele>
+        <time>2013-10-10T12:37:08.5169106</time>
+        <name>TOČKA 311</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0915524919927" lon="14.3834499998176">
+        <ele>624.235166670724</ele>
+        <time>2013-10-10T12:37:10.9170479</time>
+        <name>TOČKA 312</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0916714580696" lon="14.3835390416723">
+        <ele>626.392738343152</ele>
+        <time>2013-10-10T12:37:12.9001614</time>
+        <name>TOČKA 313</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0918063781131" lon="14.383447179316">
+        <ele>626.720917666938</ele>
+        <time>2013-10-10T12:37:55.1085755</time>
+        <name>TOČKA 314</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0918973261019" lon="14.3832723923004">
+        <ele>627.767265863086</ele>
+        <time>2013-10-10T12:37:57.1646931</time>
+        <name>TOČKA 315</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0919031647211" lon="14.3830025133657">
+        <ele>626.752627284828</ele>
+        <time>2014-01-05T10:50:11.2468509</time>
+        <name>TOČKA 315 - TOČKA 316</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0919031647211" lon="14.3830025133657">
+        <ele>626.752627284828</ele>
+        <time>2014-01-05T10:50:11.2468509</time>
+        <name>TOČKA 315 - TOČKA 316</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.091962261079" lon="14.3827572912552">
+        <ele>625.961320930794</ele>
+        <time>2013-10-10T12:38:00.9649105</time>
+        <name>TOČKA 316</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0920388873794" lon="14.3826174173563">
+        <ele>627.141255570095</ele>
+        <time>2013-10-10T12:38:03.1490354</time>
+        <name>TOČKA 317</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0922264402581" lon="14.3824206999259">
+        <ele>632.101674256882</ele>
+        <time>2013-10-10T12:38:05.4431666</time>
+        <name>TOČKA 318</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0923556245946" lon="14.3821620707894">
+        <ele>632.462218368033</ele>
+        <time>2013-10-10T12:38:07.8603049</time>
+        <name>TOČKA 319</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0924897192062" lon="14.3819172880328">
+        <ele>632.559127776845</ele>
+        <time>2013-10-10T12:38:09.7564133</time>
+        <name>TOČKA 320</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0926918161004" lon="14.3817273557403">
+        <ele>633.904225988659</ele>
+        <time>2013-10-10T12:38:12.6125767</time>
+        <name>TOČKA 321</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0928552252782" lon="14.3815378532006">
+        <ele>629.626481367735</ele>
+        <time>2013-10-10T12:38:14.8607053</time>
+        <name>TOČKA 322</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0931734586811" lon="14.3813605260312">
+        <ele>628.363951143148</ele>
+        <time>2013-10-10T12:38:17.2528421</time>
+        <name>TOČKA 323</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0933322564018" lon="14.3812127796409">
+        <ele>628.278521504461</ele>
+        <time>2013-10-10T12:38:20.0850041</time>
+        <name>TOČKA 324</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0935766367375" lon="14.3807929780971">
+        <ele>627.69403509651</ele>
+        <time>2013-10-10T12:38:29.4685408</time>
+        <name>TOČKA 325</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.093720062165" lon="14.3804855207792">
+        <ele>629.27947771652</ele>
+        <time>2013-10-10T12:38:31.5246584</time>
+        <name>TOČKA 326</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.093720062165" lon="14.3804855207792">
+        <ele>629.27947771652</ele>
+        <time>2013-10-10T12:38:31.5246584</time>
+        <name>TOČKA 326</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.093771604249" lon="14.3801790881312">
+        <ele>631.205099683395</ele>
+        <time>2013-10-10T12:38:34.052803</time>
+        <name>TOČKA 327</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0937642119983" lon="14.3797064822839">
+        <ele>630.589999403357</ele>
+        <time>2013-10-10T12:38:36.7889595</time>
+        <name>TOČKA 328</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0937567425209" lon="14.3792199748267">
+        <ele>630.916735796289</ele>
+        <time>2013-10-10T12:38:40.0131439</time>
+        <name>TOČKA 329</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0937022298428" lon="14.3789772893996">
+        <ele>630.93550728111</ele>
+        <time>2013-10-10T12:38:42.2362711</time>
+        <name>TOČKA 330</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0935746504778" lon="14.378638104581">
+        <ele>632.52744385168</ele>
+        <time>2013-10-10T12:38:44.5964061</time>
+        <name>TOČKA 331</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0935586354881" lon="14.3783602329236">
+        <ele>635.763808108625</ele>
+        <time>2013-10-10T12:38:49.9567127</time>
+        <name>TOČKA 332</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.093580628402" lon="14.3779568124799">
+        <ele>639.052698977413</ele>
+        <time>2013-10-10T12:38:52.2448435</time>
+        <name>TOČKA 333</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0936493181851" lon="14.3772470113532">
+        <ele>640.453139068559</ele>
+        <time>2013-10-10T12:38:55.1890119</time>
+        <name>TOČKA 334</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0936035665244" lon="14.3768373992569">
+        <ele>641.006265089166</ele>
+        <time>2013-10-10T12:39:05.9646283</time>
+        <name>TOČKA 335</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0936026974308" lon="14.3766775295751">
+        <ele>642.185001295616</ele>
+        <time>2013-10-10T12:39:09.4128255</time>
+        <name>TOČKA 336</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0936501116916" lon="14.3765032148451">
+        <ele>644.566738073677</ele>
+        <time>2013-10-10T12:39:11.8449646</time>
+        <name>TOČKA 337</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0937317930255" lon="14.3764049789539">
+        <ele>646.851858394902</ele>
+        <time>2013-10-10T12:39:13.5090598</time>
+        <name>TOČKA 338</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0938036511767" lon="14.376279047955">
+        <ele>648.331536233765</ele>
+        <time>2013-10-10T12:39:15.5251751</time>
+        <name>TOČKA 339</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.094062710198" lon="14.3758938125946">
+        <ele>653.359031061213</ele>
+        <time>2013-10-10T12:39:18.4123402</time>
+        <name>TOČKA 340</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0941588230533" lon="14.3757815100295">
+        <ele>655.992273292364</ele>
+        <time>2013-10-10T12:39:21.1324958</time>
+        <name>TOČKA 341</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0941870436875" lon="14.3756352141546">
+        <ele>656.646683853232</ele>
+        <time>2013-10-10T12:39:23.3896249</time>
+        <name>TOČKA 342</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0941477127524" lon="14.3755174837611">
+        <ele>656.515766411985</ele>
+        <time>2013-10-10T12:39:25.7327589</time>
+        <name>TOČKA 343</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0940890758992" lon="14.3754069221783">
+        <ele>655.784625714123</ele>
+        <time>2013-10-10T12:39:28.6449255</time>
+        <name>TOČKA 344</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0940733561218" lon="14.3751846562573">
+        <ele>655.083126468153</ele>
+        <time>2013-10-10T12:39:34.3412513</time>
+        <name>TOČKA 345</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0940544978521" lon="14.3748303504114">
+        <ele>654.565649474002</ele>
+        <time>2013-10-10T12:43:27.0365607</time>
+        <name>TOČKA 346</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0940088513142" lon="14.3744415901185">
+        <ele>651.790612359792</ele>
+        <time>2013-10-10T12:43:29.4767003</time>
+        <name>TOČKA 347</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0940593524479" lon="14.3739474758491">
+        <ele>653.239034182771</ele>
+        <time>2013-10-10T12:43:32.0128454</time>
+        <name>TOČKA 348</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.09401948823" lon="14.3737324342862">
+        <ele>653.175191165196</ele>
+        <time>2013-10-10T12:43:44.4435564</time>
+        <name>TOČKA 349</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0939068949575" lon="14.37348345753">
+        <ele>652.689160649794</ele>
+        <time>2013-10-10T12:43:46.8926964</time>
+        <name>TOČKA 350</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0938182147028" lon="14.3731855525411">
+        <ele>652.660639068559</ele>
+        <time>2013-10-10T12:43:53.2350592</time>
+        <name>TOČKA 351</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0936775170919" lon="14.3731037263323">
+        <ele>650.785964975554</ele>
+        <time>2013-10-10T12:43:54.7491458</time>
+        <name>TOČKA 352</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0934634442919" lon="14.3728698017841">
+        <ele>650.874731353898</ele>
+        <time>2013-10-10T12:43:57.060278</time>
+        <name>TOČKA 353</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0933253760396" lon="14.3723847749398">
+        <ele>655.100443851501</ele>
+        <time>2013-10-10T12:44:00.4044693</time>
+        <name>TOČKA 354</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0933320784948" lon="14.3718425019243">
+        <ele>660.646652264734</ele>
+        <time>2013-10-10T12:44:02.1165672</time>
+        <name>TOČKA 355</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0931924047049" lon="14.3710655453672">
+        <ele>660.806791491508</ele>
+        <time>2013-10-10T12:44:05.3407516</time>
+        <name>TOČKA 356</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0931488215346" lon="14.3708911271492">
+        <ele>661.963492081288</ele>
+        <time>2013-10-10T12:44:24.2058306</time>
+        <name>TOČKA 357</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0931046917549" lon="14.370719625216">
+        <ele>662.211125714257</ele>
+        <time>2013-10-10T12:44:26.1329409</time>
+        <name>TOČKA 358</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0930914711785" lon="14.3706059691794">
+        <ele>661.875125714168</ele>
+        <time>2013-10-10T12:44:27.7330324</time>
+        <name>TOČKA 359</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0930865767186" lon="14.3705272824422">
+        <ele>661.687389261928</ele>
+        <time>2014-01-05T11:43:44.6156451</time>
+        <name>TOČKA 359 - TOČKA 360</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0930865767186" lon="14.3705272824422">
+        <ele>661.687389261928</ele>
+        <time>2014-01-05T11:43:44.6156451</time>
+        <name>TOČKA 359 - TOČKA 360</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0931475419569" lon="14.3704941136524">
+        <ele>663.010347079457</ele>
+        <time>2013-10-10T12:44:30.3011793</time>
+        <name>TOČKA 360</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0932875834409" lon="14.3704356218285">
+        <ele>664.356599853547</ele>
+        <time>2013-10-10T12:44:39.0686807</time>
+        <name>TOČKA 361</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0934988812291" lon="14.3705728965837">
+        <ele>668.943632985778</ele>
+        <time>2013-10-10T12:44:41.5648235</time>
+        <name>TOČKA 362</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0937049509817" lon="14.3707412699992">
+        <ele>675.8573637259</ele>
+        <time>2013-10-10T12:44:46.4771045</time>
+        <name>TOČKA 363</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0941477334432" lon="14.3707595278102">
+        <ele>681.629655154422</ele>
+        <time>2013-10-10T12:44:48.5012202</time>
+        <name>TOČKA 364</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.094342878723" lon="14.3709047486994">
+        <ele>686.36172604034</ele>
+        <time>2013-10-10T12:44:50.157315</time>
+        <name>TOČKA 365</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0944804732689" lon="14.3713842896673">
+        <ele>692.680069643735</ele>
+        <time>2013-10-10T12:44:52.9324737</time>
+        <name>TOČKA 366</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0945958776593" lon="14.3717554482924">
+        <ele>695.613988560508</ele>
+        <time>2013-10-10T12:44:54.8365826</time>
+        <name>TOČKA 367</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.094764880654" lon="14.3720561643995">
+        <ele>701.299125714302</ele>
+        <time>2013-10-10T12:44:57.8767565</time>
+        <name>TOČKA 368</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0952483392266" lon="14.3726016390589">
+        <ele>711.883962235402</ele>
+        <time>2013-10-10T12:45:03.5090786</time>
+        <name>TOČKA 369</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0953566434929" lon="14.372662493">
+        <ele>714.869297038346</ele>
+        <time>2013-10-10T12:45:06.277237</time>
+        <name>TOČKA 370</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0955947174825" lon="14.3727606794085">
+        <ele>719.575353739774</ele>
+        <time>2013-10-10T12:45:08.236349</time>
+        <name>TOČKA 371</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0956822351848" lon="14.3729692063317">
+        <ele>719.620639068634</ele>
+        <time>2013-10-10T12:45:10.5884836</time>
+        <name>TOČKA 372</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0957318376301" lon="14.3731548826232">
+        <ele>719.931125714481</ele>
+        <time>2013-10-10T12:45:14.0766831</time>
+        <name>TOČKA 373</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0958732944928" lon="14.3733550416482">
+        <ele>722.36893049717</ele>
+        <time>2013-10-10T12:45:16.1087993</time>
+        <name>TOČKA 374</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0959864028085" lon="14.3733072048475">
+        <ele>724.67293049708</ele>
+        <time>2013-10-10T12:45:18.236921</time>
+        <name>TOČKA 375</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0960150777712" lon="14.3732276495717">
+        <ele>726.044284723848</ele>
+        <time>2014-01-05T11:50:09.2706461</time>
+        <name>TOČKA 375 - TOČKA 376</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0960150777712" lon="14.3732276495717">
+        <ele>726.044284723848</ele>
+        <time>2014-01-05T11:50:09.2706461</time>
+        <name>TOČKA 375 - TOČKA 376</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0959252827832" lon="14.3729897394838">
+        <ele>726.798152422905</ele>
+        <time>2013-10-10T12:45:20.9570766</time>
+        <name>TOČKA 376</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0959619243662" lon="14.3727798081432">
+        <ele>730.43834639757</ele>
+        <time>2013-10-10T12:45:23.0771979</time>
+        <name>TOČKA 377</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0959284735304" lon="14.3725861888932">
+        <ele>732.318587744795</ele>
+        <time>2013-10-10T12:45:24.6932903</time>
+        <name>TOČKA 378</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0958241656857" lon="14.3722692132414">
+        <ele>733.983750817328</ele>
+        <time>2013-10-10T12:45:26.5643973</time>
+        <name>TOČKA 379</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0958381503472" lon="14.3718655411542">
+        <ele>737.885994517</ele>
+        <time>2013-10-10T12:45:28.6365159</time>
+        <name>TOČKA 380</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0959984812393" lon="14.3715688497669">
+        <ele>742.275125714392</ele>
+        <time>2013-10-10T12:45:31.0606545</time>
+        <name>TOČKA 381</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0961448193162" lon="14.3713927434881">
+        <ele>745.499678097963</ele>
+        <time>2013-10-10T13:04:15.748983</time>
+        <name>TOČKA 382</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0962644209542" lon="14.371155033614">
+        <ele>745.929500103742</ele>
+        <time>2013-10-10T13:04:17.7170956</time>
+        <name>TOČKA 383</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0963511623043" lon="14.371098437537">
+        <ele>747.091637199552</ele>
+        <time>2013-10-10T13:04:19.2371825</time>
+        <name>TOČKA 384</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0963753418584" lon="14.3710981634762">
+        <ele>747.62686056518</ele>
+        <time>2013-10-10T13:04:19.4751961</time>
+        <name>TOČKA 385</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0965638661108" lon="14.3710821233495">
+        <ele>751.159477379471</ele>
+        <time>2013-10-10T13:04:21.2532978</time>
+        <name>TOČKA 386</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0967383783386" lon="14.3711566137018">
+        <ele>754.987148772108</ele>
+        <time>2013-10-10T13:04:22.8373884</time>
+        <name>TOČKA 387</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0970281516477" lon="14.3710838124237">
+        <ele>752.004157501465</ele>
+        <time>2013-10-10T13:04:24.4284794</time>
+        <name>TOČKA 388</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0971967220223" lon="14.3709567705063">
+        <ele>746.840652484652</ele>
+        <time>2013-10-10T13:04:26.3165874</time>
+        <name>TOČKA 389</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0974188305827" lon="14.3708916865428">
+        <ele>745.141644011736</ele>
+        <time>2013-10-10T13:04:28.5407146</time>
+        <name>TOČKA 390</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0976851107678" lon="14.3709442816357">
+        <ele>745.473757986212</ele>
+        <time>2013-10-10T13:04:30.2528126</time>
+        <name>TOČKA 391</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0979272495113" lon="14.3710041027333">
+        <ele>747.350477379709</ele>
+        <time>2013-10-10T13:04:32.4689393</time>
+        <name>TOČKA 392</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0981590680283" lon="14.3709458598308">
+        <ele>746.366888382733</ele>
+        <time>2013-10-10T13:04:34.9010784</time>
+        <name>TOČKA 393</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0983379203773" lon="14.3709299282656">
+        <ele>747.601476088062</ele>
+        <time>2013-10-10T13:04:36.431166</time>
+        <name>TOČKA 394</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0986063514644" lon="14.37093383662">
+        <ele>749.345210388303</ele>
+        <time>2013-10-10T13:46:30.8049799</time>
+        <name>TOČKA 395</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0987947230304" lon="14.3708899892056">
+        <ele>747.971288023591</ele>
+        <time>2013-10-10T13:46:32.6610861</time>
+        <name>TOČKA 396</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0989643231335" lon="14.3709506336663">
+        <ele>750.698111624545</ele>
+        <time>2013-10-10T13:46:34.7492055</time>
+        <name>TOČKA 397</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0991106207572" lon="14.3711714380434">
+        <ele>755.678776557892</ele>
+        <time>2013-10-10T13:46:36.7973226</time>
+        <name>TOČKA 398</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0993489145678" lon="14.3714120572505">
+        <ele>758.310087201595</ele>
+        <time>2013-10-10T13:46:38.4534174</time>
+        <name>TOČKA 399</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0995964605545" lon="14.3715761013633">
+        <ele>758.481028713646</ele>
+        <time>2013-10-10T13:46:40.9885624</time>
+        <name>TOČKA 400</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0998143431642" lon="14.3716222978096">
+        <ele>757.745910164974</ele>
+        <time>2013-10-10T13:46:42.7726644</time>
+        <name>TOČKA 401</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1000515312811" lon="14.3716613238744">
+        <ele>757.584323944147</ele>
+        <time>2013-10-10T13:46:44.6687729</time>
+        <name>TOČKA 402</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1002017492269" lon="14.3717152394237">
+        <ele>758.727082418728</ele>
+        <time>2013-10-10T13:46:46.6528864</time>
+        <name>TOČKA 403</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1003381831349" lon="14.3719014017588">
+        <ele>761.059261064556</ele>
+        <time>2013-10-10T13:46:48.4849911</time>
+        <name>TOČKA 404</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1004256103237" lon="14.371969933331">
+        <ele>761.733584956321</ele>
+        <time>2013-10-10T13:46:51.3731563</time>
+        <name>TOČKA 405</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1006283376188" lon="14.3718981167619">
+        <ele>763.484197609943</ele>
+        <time>2013-10-10T13:46:53.8933005</time>
+        <name>TOČKA 406</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1007825915067" lon="14.3718059919747">
+        <ele>765.333563530824</ele>
+        <time>2013-10-10T13:46:55.7974094</time>
+        <name>TOČKA 407</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.10088890529" lon="14.3717908837502">
+        <ele>766.809616125965</ele>
+        <time>2013-10-10T13:46:57.5495096</time>
+        <name>TOČKA 408</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1010860215066" lon="14.3715652070507">
+        <ele>763.605840772594</ele>
+        <time>2013-10-10T13:47:01.244721</time>
+        <name>TOČKA 409</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.101270617785" lon="14.3714049840825">
+        <ele>761.177866291121</ele>
+        <time>2015-03-24T23:03:26.6964521</time>
+        <name>TOČKA 558</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.101328071166" lon="14.371381051131">
+        <ele>761.532561115403</ele>
+        <time>2015-03-24T23:03:28.3075443</time>
+        <name>TOČKA 559</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1015007007836" lon="14.3713583998733">
+        <ele>761.833341774344</ele>
+        <time>2015-03-24T23:03:31.8997497</time>
+        <name>TOČKA 560</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.101643438364" lon="14.3713652020407">
+        <ele>762.041644011736</ele>
+        <time>2015-03-24T23:03:39.1351636</time>
+        <name>TOČKA 561</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.101643438364" lon="14.3713652020407">
+        <ele>762.041644011736</ele>
+        <time>2013-10-10T14:00:36.205334</time>
+        <name>TOČKA 412</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1018373701471" lon="14.3714533845569">
+        <ele>764.219793124828</ele>
+        <time>2013-10-10T14:00:38.3494567</time>
+        <name>TOČKA 413</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1020894470613" lon="14.3715617660192">
+        <ele>766.326664173377</ele>
+        <time>2013-10-10T14:00:40.1495596</time>
+        <name>TOČKA 414</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1022927837678" lon="14.3716011767842">
+        <ele>765.931005335386</ele>
+        <time>2013-10-10T14:00:42.8767156</time>
+        <name>TOČKA 415</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.102466990706" lon="14.3716200606014">
+        <ele>765</ele>
+        <time>2013-10-10T14:00:44.5248099</time>
+        <name>TOČKA 416</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1028183127218" lon="14.3715625633953">
+        <ele>762.897899640799</ele>
+        <time>2013-10-10T14:00:47.0209527</time>
+        <name>TOČKA 417</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1030804647828" lon="14.3714879669425">
+        <ele>761.306988638044</ele>
+        <time>2013-10-10T14:00:48.7890538</time>
+        <name>TOČKA 418</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1034663842357" lon="14.3713097814221">
+        <ele>757.49455562662</ele>
+        <time>2013-10-10T14:00:50.5331535</time>
+        <name>TOČKA 419</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1037431522871" lon="14.371070257813">
+        <ele>755.18665556312</ele>
+        <time>2013-10-10T14:00:56.6375027</time>
+        <name>TOČKA 420</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1039353677952" lon="14.3708455959654">
+        <ele>754.68167745309</ele>
+        <time>2013-10-10T14:00:58.373602</time>
+        <name>TOČKA 421</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1040880940289" lon="14.3704753760347">
+        <ele>755.867847879445</ele>
+        <time>2013-10-10T14:01:00.0206962</time>
+        <name>TOČKA 422</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1041645761481" lon="14.370316388942">
+        <ele>758.96613164144</ele>
+        <time>2014-01-05T12:20:33.1869682</time>
+        <name>TOČKA 422 - TOČKA 423</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1041645761481" lon="14.370316388942">
+        <ele>758.96613164144</ele>
+        <time>2014-01-05T12:20:33.1869682</time>
+        <name>TOČKA 422 - TOČKA 423</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1042314910065" lon="14.3701678335385">
+        <ele>761.592038996542</ele>
+        <time>2013-10-10T14:01:02.044812</time>
+        <name>TOČKA 423</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1042637760141" lon="14.3698824095282">
+        <ele>765.781297596648</ele>
+        <time>2013-10-10T14:01:03.8369145</time>
+        <name>TOČKA 424</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1042373412879" lon="14.3694725054074">
+        <ele>768.778100462332</ele>
+        <time>2013-10-10T14:01:05.6360174</time>
+        <name>TOČKA 425</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1042361557566" lon="14.3692569877586">
+        <ele>767.791689459384</ele>
+        <time>2013-10-10T14:01:07.3091131</time>
+        <name>TOČKA 426</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1043217864745" lon="14.36899876684">
+        <ele>771.123462221524</ele>
+        <time>2013-10-10T14:01:09.773254</time>
+        <name>TOČKA 427</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1044700919162" lon="14.3687050686343">
+        <ele>773.15937606581</ele>
+        <time>2013-10-10T14:01:12.5334119</time>
+        <name>TOČKA 428</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1046477949901" lon="14.3684805608063">
+        <ele>775.968293764676</ele>
+        <time>2013-10-10T14:01:14.3655167</time>
+        <name>TOČKA 429</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1047731837327" lon="14.3684165590874">
+        <ele>777.488310747594</ele>
+        <time>2013-10-10T14:01:18.8607738</time>
+        <name>TOČKA 430</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1050536276936" lon="14.3684064131445">
+        <ele>779.569422812887</ele>
+        <time>2013-10-10T14:01:21.0689001</time>
+        <name>TOČKA 431</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1051990494206" lon="14.3684673319323">
+        <ele>782.984335302173</ele>
+        <time>2013-10-10T14:01:24.0130685</time>
+        <name>TOČKA 432</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1053011394726" lon="14.3685635080969">
+        <ele>784.785156393963</ele>
+        <time>2013-10-10T14:01:27.029241</time>
+        <name>TOČKA 433</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1053646188086" lon="14.3686740296022">
+        <ele>786.36238827914</ele>
+        <time>2013-10-10T14:01:34.1556486</time>
+        <name>TOČKA 434</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1054041864756" lon="14.3688334928176">
+        <ele>788.541982320191</ele>
+        <time>2013-10-10T14:01:36.3087718</time>
+        <name>TOČKA 435</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1053811167955" lon="14.3690353853921">
+        <ele>791.345672076442</ele>
+        <time>2013-10-10T14:01:38.0688724</time>
+        <name>TOČKA 436</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1052565693279" lon="14.369252337252">
+        <ele>796.553534474196</ele>
+        <time>2013-10-10T14:01:40.7570262</time>
+        <name>TOČKA 437</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1051024324252" lon="14.3693653335965">
+        <ele>801.26707753174</ele>
+        <time>2013-10-10T14:01:44.7622553</time>
+        <name>TOČKA 438</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1050439825477" lon="14.3694329382509">
+        <ele>800.982844626382</ele>
+        <time>2013-10-10T14:02:13.0528734</time>
+        <name>TOČKA 439</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1050008208294" lon="14.369437794568">
+        <ele>801.285844626501</ele>
+        <time>2013-10-10T14:02:16.3730633</time>
+        <name>TOČKA 440</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049633440265" lon="14.3694333698716">
+        <ele>801.499237518366</ele>
+        <time>2013-10-10T14:02:18.0451589</time>
+        <name>TOČKA 441</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049345246041" lon="14.3694079886498">
+        <ele>801.613404980083</ele>
+        <time>2013-10-10T14:02:20.1042767</time>
+        <name>TOČKA 442</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049207809346" lon="14.3693630331687">
+        <ele>802.155622640212</ele>
+        <time>2013-10-10T14:02:22.2133974</time>
+        <name>TOČKA 443</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049238933311" lon="14.369315460695">
+        <ele>802.957517485382</ele>
+        <time>2013-10-10T14:02:25.8856074</time>
+        <name>TOČKA 444</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049300593514" lon="14.3692096448074">
+        <ele>803.464314399226</ele>
+        <time>2013-10-10T14:02:32.2449711</time>
+        <name>TOČKA 445</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049451895552" lon="14.3691386521599">
+        <ele>803.700744370669</ele>
+        <time>2013-10-10T14:02:37.2212558</time>
+        <name>TOČKA 446</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049956510247" lon="14.3691113992359">
+        <ele>803.404899640828</ele>
+        <time>2013-10-10T14:02:40.0854196</time>
+        <name>TOČKA 447</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049956510247" lon="14.3691113992359">
+        <ele>803.404899640828</ele>
+        <time>2013-10-10T14:02:40.0854196</time>
+        <name>TOČKA 447</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049451895552" lon="14.3691386521599">
+        <ele>803.700744370669</ele>
+        <time>2013-10-10T14:02:37.2212558</time>
+        <name>TOČKA 446</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049300593514" lon="14.3692096448074">
+        <ele>803.464314399226</ele>
+        <time>2013-10-10T14:02:32.2449711</time>
+        <name>TOČKA 445</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049238933311" lon="14.369315460695">
+        <ele>802.957517485382</ele>
+        <time>2013-10-10T14:02:25.8856074</time>
+        <name>TOČKA 444</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049207809346" lon="14.3693630331687">
+        <ele>802.155622640212</ele>
+        <time>2013-10-10T14:02:22.2133974</time>
+        <name>TOČKA 443</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049345246041" lon="14.3694079886498">
+        <ele>801.613404980083</ele>
+        <time>2013-10-10T14:02:20.1042767</time>
+        <name>TOČKA 442</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049633440265" lon="14.3694333698716">
+        <ele>801.499237518366</ele>
+        <time>2013-10-10T14:02:18.0451589</time>
+        <name>TOČKA 441</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1050008208294" lon="14.369437794568">
+        <ele>801.285844626501</ele>
+        <time>2013-10-10T14:02:16.3730633</time>
+        <name>TOČKA 440</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1050439825477" lon="14.3694329382509">
+        <ele>800.982844626382</ele>
+        <time>2013-10-10T14:02:13.0528734</time>
+        <name>TOČKA 439</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1051024324252" lon="14.3693653335965">
+        <ele>801.26707753174</ele>
+        <time>2013-10-10T14:01:44.7622553</time>
+        <name>TOČKA 438</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1052565693279" lon="14.369252337252">
+        <ele>796.553534474196</ele>
+        <time>2013-10-10T14:01:40.7570262</time>
+        <name>TOČKA 437</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1053811167955" lon="14.3690353853921">
+        <ele>791.345672076442</ele>
+        <time>2013-10-10T14:01:38.0688724</time>
+        <name>TOČKA 436</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1054041864756" lon="14.3688334928176">
+        <ele>788.541982320191</ele>
+        <time>2013-10-10T14:01:36.3087718</time>
+        <name>TOČKA 435</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1053646188086" lon="14.3686740296022">
+        <ele>786.36238827914</ele>
+        <time>2013-10-10T14:01:34.1556486</time>
+        <name>TOČKA 434</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1053011394726" lon="14.3685635080969">
+        <ele>784.785156393963</ele>
+        <time>2013-10-10T14:01:27.029241</time>
+        <name>TOČKA 433</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1051990494206" lon="14.3684673319323">
+        <ele>782.984335302173</ele>
+        <time>2013-10-10T14:01:24.0130685</time>
+        <name>TOČKA 432</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1050536276936" lon="14.3684064131445">
+        <ele>779.569422812887</ele>
+        <time>2013-10-10T14:01:21.0689001</time>
+        <name>TOČKA 431</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1047731837327" lon="14.3684165590874">
+        <ele>777.488310747594</ele>
+        <time>2013-10-10T14:01:18.8607738</time>
+        <name>TOČKA 430</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1046477949901" lon="14.3684805608063">
+        <ele>775.968293764676</ele>
+        <time>2013-10-10T14:01:14.3655167</time>
+        <name>TOČKA 429</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1044700919162" lon="14.3687050686343">
+        <ele>773.15937606581</ele>
+        <time>2013-10-10T14:01:12.5334119</time>
+        <name>TOČKA 428</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1043217864745" lon="14.36899876684">
+        <ele>771.123462221524</ele>
+        <time>2013-10-10T14:01:09.773254</time>
+        <name>TOČKA 427</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1042361557566" lon="14.3692569877586">
+        <ele>767.791689459384</ele>
+        <time>2013-10-10T14:01:07.3091131</time>
+        <name>TOČKA 426</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1042373412879" lon="14.3694725054074">
+        <ele>768.778100462332</ele>
+        <time>2013-10-10T14:01:05.6360174</time>
+        <name>TOČKA 425</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1042637760141" lon="14.3698824095282">
+        <ele>765.781297596648</ele>
+        <time>2013-10-10T14:01:03.8369145</time>
+        <name>TOČKA 424</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1042314910065" lon="14.3701678335385">
+        <ele>761.592038996542</ele>
+        <time>2013-10-10T14:01:02.044812</time>
+        <name>TOČKA 423</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1041645761481" lon="14.370316388942">
+        <ele>758.96613164144</ele>
+        <time>2014-01-05T12:20:33.1869682</time>
+        <name>TOČKA 422 - TOČKA 423</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1041645761481" lon="14.370316388942">
+        <ele>758.96613164144</ele>
+        <time>2014-01-05T12:20:33.1869682</time>
+        <name>TOČKA 422 - TOČKA 423</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1040880940289" lon="14.3704753760347">
+        <ele>755.867847879445</ele>
+        <time>2013-10-10T14:01:00.0206962</time>
+        <name>TOČKA 422</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1039353677952" lon="14.3708455959654">
+        <ele>754.68167745309</ele>
+        <time>2013-10-10T14:00:58.373602</time>
+        <name>TOČKA 421</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1037431522871" lon="14.371070257813">
+        <ele>755.18665556312</ele>
+        <time>2013-10-10T14:00:56.6375027</time>
+        <name>TOČKA 420</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1034663842357" lon="14.3713097814221">
+        <ele>757.49455562662</ele>
+        <time>2013-10-10T14:00:50.5331535</time>
+        <name>TOČKA 419</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1030804647828" lon="14.3714879669425">
+        <ele>761.306988638044</ele>
+        <time>2013-10-10T14:00:48.7890538</time>
+        <name>TOČKA 418</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1028183127218" lon="14.3715625633953">
+        <ele>762.897899640799</ele>
+        <time>2013-10-10T14:00:47.0209527</time>
+        <name>TOČKA 417</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.102466990706" lon="14.3716200606014">
+        <ele>765</ele>
+        <time>2013-10-10T14:00:44.5248099</time>
+        <name>TOČKA 416</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1022927837678" lon="14.3716011767842">
+        <ele>765.931005335386</ele>
+        <time>2013-10-10T14:00:42.8767156</time>
+        <name>TOČKA 415</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1020894470613" lon="14.3715617660192">
+        <ele>766.326664173377</ele>
+        <time>2013-10-10T14:00:40.1495596</time>
+        <name>TOČKA 414</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1018373701471" lon="14.3714533845569">
+        <ele>764.219793124828</ele>
+        <time>2013-10-10T14:00:38.3494567</time>
+        <name>TOČKA 413</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.101643438364" lon="14.3713652020407">
+        <ele>762.041644011736</ele>
+        <time>2013-10-10T14:00:36.205334</time>
+        <name>TOČKA 412</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1016432338891" lon="14.3713645454174">
+        <ele>762.025341797769</ele>
+        <time>2013-10-10T14:30:30.2689486</time>
+        <name>TOČKA 038</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1014572046717" lon="14.3712305183318">
+        <ele>758.896914749066</ele>
+        <time>2015-03-24T23:00:28.7962768</time>
+        <name>TOČKA 038 - TOČKA 038 - TOČKA 039</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1012780854812" lon="14.3711977872398">
+        <ele>757.950807211176</ele>
+        <time>2015-03-24T23:00:15.9355412</time>
+        <name>TOČKA 038 - TOČKA 039</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1013415793184" lon="14.3709569845336">
+        <ele>754.973551849157</ele>
+        <time>2013-10-10T14:30:32.1250548</time>
+        <name>TOČKA 039</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1015060382801" lon="14.3709620720103">
+        <ele>754.91765875814</ele>
+        <time>2013-10-10T14:30:33.6931445</time>
+        <name>TOČKA 040</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1017565516615" lon="14.3707854238162">
+        <ele>751.910348442406</ele>
+        <time>2013-10-10T14:30:35.2132314</time>
+        <name>TOČKA 041</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1020057286861" lon="14.3703654573947">
+        <ele>745.223247714002</ele>
+        <time>2013-10-10T14:30:40.0615087</time>
+        <name>TOČKA 042</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1022371266234" lon="14.3702307360918">
+        <ele>741.432672949282</ele>
+        <time>2013-10-10T14:33:31.3073034</time>
+        <name>TOČKA 042 - TOČKA 043</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1024293023453" lon="14.3699991255605">
+        <ele>738.232822005451</ele>
+        <time>2013-10-10T14:30:42.2296327</time>
+        <name>TOČKA 043</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1027986475788" lon="14.3694456885245">
+        <ele>732.815655373335</ele>
+        <time>2013-10-10T14:30:43.9327301</time>
+        <name>TOČKA 044</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.103037344146" lon="14.3688798255187">
+        <ele>724.222555046824</ele>
+        <time>2013-10-10T14:30:45.8928422</time>
+        <name>TOČKA 045</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1032633300956" lon="14.3686408696062">
+        <ele>722.301862553862</ele>
+        <time>2013-10-10T14:30:47.8689553</time>
+        <name>TOČKA 046</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1033880679716" lon="14.3684586846193">
+        <ele>718.897246687303</ele>
+        <time>2013-10-10T14:30:49.909072</time>
+        <name>TOČKA 047</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1033880679716" lon="14.3684586846193">
+        <ele>718.897246687303</ele>
+        <time>2013-10-10T14:30:49.909072</time>
+        <name>TOČKA 047</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1032812951226" lon="14.3683903752466">
+        <ele>715.906393112809</ele>
+        <time>2013-10-10T14:30:52.6782303</time>
+        <name>TOČKA 048</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1030788382779" lon="14.3685108724451">
+        <ele>716.141590999971</ele>
+        <time>2013-10-10T14:30:55.6454001</time>
+        <name>TOČKA 049</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1028720048012" lon="14.368714847912">
+        <ele>715.333136341822</ele>
+        <time>2013-10-10T14:30:58.4695616</time>
+        <name>TOČKA 050</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1026739241724" lon="14.3687518641762">
+        <ele>711.182470125798</ele>
+        <time>2013-10-10T14:31:00.4056723</time>
+        <name>TOČKA 051</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1024127853885" lon="14.3687548357404">
+        <ele>704.19848874107</ele>
+        <time>2013-10-10T14:31:03.3488407</time>
+        <name>TOČKA 052</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1022536981571" lon="14.3688470267944">
+        <ele>701.48108910054</ele>
+        <time>2013-10-10T14:31:06.7900375</time>
+        <name>TOČKA 053</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1021192495436" lon="14.369022365241">
+        <ele>702.17932210885</ele>
+        <time>2013-10-10T14:31:11.6133134</time>
+        <name>TOČKA 054</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1019697191183" lon="14.3690935893463">
+        <ele>700.689649861882</ele>
+        <time>2013-10-10T14:31:45.6852622</time>
+        <name>TOČKA 055</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1018635587643" lon="14.3691365106031">
+        <ele>700.324066375941</ele>
+        <time>2013-10-10T14:31:47.7333793</time>
+        <name>TOČKA 056</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1017375957114" lon="14.3690962292399">
+        <ele>698.933644011021</ele>
+        <time>2013-10-10T14:31:49.4214759</time>
+        <name>TOČKA 057</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1016257194695" lon="14.3689793126655">
+        <ele>697.754388278201</ele>
+        <time>2013-10-10T14:31:51.277582</time>
+        <name>TOČKA 058</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1015476178943" lon="14.3688481077533">
+        <ele>696.651190166371</ele>
+        <time>2013-10-10T14:31:53.9647357</time>
+        <name>TOČKA 059</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1014302546791" lon="14.3686130660237">
+        <ele>693.859059256599</ele>
+        <time>2013-10-10T14:31:58.356987</time>
+        <name>TOČKA 060</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1013280497536" lon="14.3684960409766">
+        <ele>691.531905999528</ele>
+        <time>2013-10-10T14:32:11.2207227</time>
+        <name>TOČKA 061</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1012210471053" lon="14.3683860232224">
+        <ele>688.880214808488</ele>
+        <time>2013-10-10T14:32:14.5969158</time>
+        <name>TOČKA 062</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1011043725428" lon="14.3682761160287">
+        <ele>684.354388286849</ele>
+        <time>2013-10-10T14:32:17.6370897</time>
+        <name>TOČKA 063</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1010268831521" lon="14.3682561417819">
+        <ele>682.87448874101</ele>
+        <time>2013-10-10T14:32:21.9093341</time>
+        <name>TOČKA 064</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1008433869345" lon="14.3683068966937">
+        <ele>680.862080681873</ele>
+        <time>2013-10-10T14:32:24.5734865</time>
+        <name>TOČKA 065</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.100631296554" lon="14.3684344506273">
+        <ele>678.42256795732</ele>
+        <time>2013-10-10T14:32:30.7168378</time>
+        <name>TOČKA 066</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.100535267738" lon="14.3685606825724">
+        <ele>678.091535598671</ele>
+        <time>2013-10-10T14:32:35.3091005</time>
+        <name>TOČKA 067</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1003723399285" lon="14.368833670117">
+        <ele>678.396911106184</ele>
+        <time>2013-10-10T14:32:42.4295078</time>
+        <name>TOČKA 068</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1003049816908" lon="14.3688970055509">
+        <ele>678.626488740891</ele>
+        <time>2013-10-10T14:32:46.6207475</time>
+        <name>TOČKA 069</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1002083018496" lon="14.3689050574658">
+        <ele>677.07848874107</ele>
+        <time>2013-10-10T14:32:49.4529095</time>
+        <name>TOČKA 070</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1000071525189" lon="14.36882392062">
+        <ele>671.814941789665</ele>
+        <time>2013-10-10T14:32:56.8373318</time>
+        <name>TOČKA 071</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0998376278984" lon="14.3687771848393">
+        <ele>669.676604220732</ele>
+        <time>2013-10-10T14:32:59.4054787</time>
+        <name>TOČKA 072</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0996924741723" lon="14.3687649322634">
+        <ele>668.944155373201</ele>
+        <time>2013-10-10T14:33:03.4207084</time>
+        <name>TOČKA 073</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0995427141912" lon="14.3687944443199">
+        <ele>668.849644010961</ele>
+        <time>2013-10-10T14:34:04.0051736</time>
+        <name>TOČKA 075</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0994263079584" lon="14.3687332005953">
+        <ele>667.571695778453</ele>
+        <time>2013-10-10T14:34:05.7812752</time>
+        <name>TOČKA 076</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0992221279502" lon="14.368540868193">
+        <ele>662.797776573334</ele>
+        <time>2013-10-10T14:34:09.869509</time>
+        <name>TOČKA 077</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0991148572406" lon="14.3683821937367">
+        <ele>660.652416053117</ele>
+        <time>2013-10-10T14:34:15.3328215</time>
+        <name>TOČKA 078</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0989007366433" lon="14.3681413132796">
+        <ele>657.7150246443</ele>
+        <time>2013-10-10T14:34:18.3409936</time>
+        <name>TOČKA 079</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0987937336362" lon="14.3680313009936">
+        <ele>655.75764401108</ele>
+        <time>2013-10-10T14:34:21.8211926</time>
+        <name>TOČKA 080</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0986084900996" lon="14.367887913293">
+        <ele>653.26774943516</ele>
+        <time>2013-10-10T14:34:29.4536292</time>
+        <name>TOČKA 081</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0984660633847" lon="14.3674932781753">
+        <ele>646.015368825272</ele>
+        <time>2013-10-10T14:34:32.6368113</time>
+        <name>TOČKA 082</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0983392941514" lon="14.3673070227458">
+        <ele>643.354912550151</ele>
+        <time>2013-10-10T14:34:34.4769165</time>
+        <name>TOČKA 083</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0985084357506" lon="14.3672842382012">
+        <ele>642.50895122384</ele>
+        <time>2013-10-10T14:34:40.0932377</time>
+        <name>TOČKA 084</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0986051922251" lon="14.3672900866767">
+        <ele>641.796466241479</ele>
+        <time>2015-03-19T23:29:56.7047387</time>
+        <name>TOČKA 049</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0986871340463" lon="14.3672404887621">
+        <ele>640.746040908548</ele>
+        <time>2015-03-19T23:29:57.9608105</time>
+        <name>TOČKA 050</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0986909722243" lon="14.3670596950676">
+        <ele>638.344912550151</ele>
+        <time>2015-03-19T23:30:00.0029273</time>
+        <name>TOČKA 051</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0986074950828" lon="14.3668312343872">
+        <ele>635.506912550181</ele>
+        <time>2015-03-19T23:30:02.1450499</time>
+        <name>TOČKA 052</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0986069575329" lon="14.3667339137897">
+        <ele>634.651456275135</ele>
+        <time>2015-03-19T23:30:04.1361637</time>
+        <name>TOČKA 053</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.098736528432" lon="14.3665516847675">
+        <ele>633.215318903567</ele>
+        <time>2015-03-19T23:30:05.9442672</time>
+        <name>TOČKA 054</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0988717417003" lon="14.366515381245">
+        <ele>632.636912550181</ele>
+        <time>2015-03-19T23:30:07.3693487</time>
+        <name>TOČKA 055</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0991520320802" lon="14.3664774209049">
+        <ele>627.891162935164</ele>
+        <time>2015-03-19T23:30:11.344576</time>
+        <name>TOČKA 056</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.099311540084" lon="14.3664616954711">
+        <ele>625.437107382417</ele>
+        <time>2015-03-19T23:30:16.0968479</time>
+        <name>TOČKA 057</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0994950355073" lon="14.3664109359059">
+        <ele>623.000009966344</ele>
+        <time>2015-03-19T23:30:23.4722697</time>
+        <name>TOČKA 058</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0996261811579" lon="14.3665137187298">
+        <ele>623.508242734513</ele>
+        <time>2015-03-19T23:30:30.3676641</time>
+        <name>TOČKA 059</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.0999304205121" lon="14.3664337718851">
+        <ele>624.810699432677</ele>
+        <time>2015-03-19T23:30:32.1047635</time>
+        <name>TOČKA 060</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1000899669056" lon="14.3664249977376">
+        <ele>625.567358859032</ele>
+        <time>2015-03-19T23:30:33.8378626</time>
+        <name>TOČKA 061</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1002013079371" lon="14.3664445825073">
+        <ele>626.685358859003</ele>
+        <time>2015-03-19T23:30:35.6049637</time>
+        <name>TOČKA 062</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1005537909638" lon="14.3663432269327">
+        <ele>631.855461960098</ele>
+        <time>2015-03-19T23:30:38.618136</time>
+        <name>TOČKA 063</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1006939937203" lon="14.3663346733538">
+        <ele>634.852717718035</ele>
+        <time>2015-03-19T23:30:40.4002379</time>
+        <name>TOČKA 064</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1007808478381" lon="14.3662989203687">
+        <ele>635.970717718005</ele>
+        <time>2015-03-19T23:30:43.5024154</time>
+        <name>TOČKA 065</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.100886661237" lon="14.3661934287261">
+        <ele>635.755815134123</ele>
+        <time>2015-03-19T23:30:45.7285427</time>
+        <name>TOČKA 066</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1011954286603" lon="14.366057808605">
+        <ele>636.328552885978</ele>
+        <time>2015-03-19T23:30:51.0788487</time>
+        <name>TOČKA 067</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1012650110069" lon="14.3659596820442">
+        <ele>634.384519766728</ele>
+        <time>2015-03-19T23:30:59.2303149</time>
+        <name>TOČKA 068</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1013561625487" lon="14.3658265474013">
+        <ele>631.943227684274</ele>
+        <time>2015-03-19T23:31:01.9744719</time>
+        <name>TOČKA 069</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1013991087708" lon="14.3657217725455">
+        <ele>629.998634413254</ele>
+        <time>2015-03-19T23:31:04.1525965</time>
+        <name>TOČKA 070</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1014028290759" lon="14.3655201144418">
+        <ele>626.024368825406</ele>
+        <time>2015-03-19T23:31:07.9338128</time>
+        <name>TOČKA 071</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.101484500706" lon="14.3654218485432">
+        <ele>624.173971501368</ele>
+        <time>2015-03-19T23:31:10.6279669</time>
+        <name>TOČKA 072</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1015665570982" lon="14.3653931007664">
+        <ele>623.312472793912</ele>
+        <time>2015-03-19T23:31:12.8430936</time>
+        <name>TOČKA 073</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1017495131004" lon="14.3652450094138">
+        <ele>622.173019802646</ele>
+        <time>2015-03-19T23:31:14.3981825</time>
+        <name>TOČKA 074</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1018549789862" lon="14.3650769470033">
+        <ele>620.441849049042</ele>
+        <time>2015-03-19T23:31:16.7403165</time>
+        <name>TOČKA 075</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1019946425175" lon="14.3649710634547">
+        <ele>619.974912550151</ele>
+        <time>2015-03-19T23:31:20.0065033</time>
+        <name>TOČKA 076</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1021059452417" lon="14.3649836940202">
+        <ele>620.73816113749</ele>
+        <time>2015-03-19T23:31:21.2515745</time>
+        <name>TOČKA 077</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1022021240905" lon="14.3648852599749">
+        <ele>619.991771409363</ele>
+        <time>2015-03-19T23:31:23.218687</time>
+        <name>TOČKA 078</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1022349353553" lon="14.3646971704458">
+        <ele>615.514530694734</ele>
+        <time>2015-03-19T23:31:24.4397568</time>
+        <name>TOČKA 079</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1022340876908" lon="14.364544228113">
+        <ele>611.457825100422</ele>
+        <time>2015-03-19T23:31:25.8818393</time>
+        <name>TOČKA 080</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1029454049799" lon="14.3637434997892">
+        <ele>605.446730864262</ele>
+        <time>2015-03-19T23:31:33.1762565</time>
+        <name>TOČKA 081</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1031470076009" lon="14.3634700406629">
+        <ele>605.54997916095</ele>
+        <time>2015-03-19T23:31:35.7284025</time>
+        <name>TOČKA 082</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.103352982007" lon="14.3631130992715">
+        <ele>606.450605027258</ele>
+        <time>2015-03-19T23:31:38.6145676</time>
+        <name>TOČKA 083</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.103752429797" lon="14.3627608851154">
+        <ele>611.212281375378</ele>
+        <time>2015-03-19T23:31:41.3587246</time>
+        <name>TOČKA 084</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1043821614556" lon="14.3625103083319">
+        <ele>603.671922516376</ele>
+        <time>2015-03-19T23:31:49.6802005</time>
+        <name>TOČKA 085</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1044880485506" lon="14.3624187069448">
+        <ele>600.480876433537</ele>
+        <time>2015-03-19T23:31:50.8002646</time>
+        <name>TOČKA 086</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1048027297492" lon="14.3624776639845">
+        <ele>596.212826951945</ele>
+        <time>2015-03-19T23:31:52.9663885</time>
+        <name>TOČKA 087</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1051143942312" lon="14.3619943435843">
+        <ele>593.317553313862</ele>
+        <time>2015-03-19T23:31:55.4125284</time>
+        <name>TOČKA 088</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1053704258011" lon="14.3619427292415">
+        <ele>591.65274252297</ele>
+        <time>2015-03-19T23:31:57.3136371</time>
+        <name>TOČKA 089</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1055390629326" lon="14.3618295448112">
+        <ele>588.411553691179</ele>
+        <time>2015-03-19T23:31:59.1507422</time>
+        <name>TOČKA 090</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1056300933751" lon="14.3616755360073">
+        <ele>586.67789729044</ele>
+        <time>2015-03-19T23:32:00.492819</time>
+        <name>TOČKA 091</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1057066546448" lon="14.3615286460556">
+        <ele>585.996160406492</ele>
+        <time>2015-03-19T23:32:02.1139117</time>
+        <name>TOČKA 092</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1059565719555" lon="14.3612476558521">
+        <ele>588.172302581881</ele>
+        <time>2015-03-19T23:32:07.0201923</time>
+        <name>TOČKA 093</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1060279867829" lon="14.3610452009762">
+        <ele>587.556131800109</ele>
+        <time>2015-03-19T23:32:09.3973283</time>
+        <name>TOČKA 094</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1059972272429" lon="14.3607326775813">
+        <ele>584.08919858121</ele>
+        <time>2015-03-19T23:33:29.6139164</time>
+        <name>TOČKA 095</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1060202822258" lon="14.3605307794476">
+        <ele>581.483220017327</ele>
+        <time>2015-03-19T23:33:31.2130079</time>
+        <name>TOČKA 096</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1061106901859" lon="14.3602655286846">
+        <ele>577.453915864741</ele>
+        <time>2015-03-19T23:33:32.928106</time>
+        <name>TOČKA 097</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1063111196082" lon="14.3597834682832">
+        <ele>571.359173993245</ele>
+        <time>2015-03-19T23:33:34.8562162</time>
+        <name>TOČKA 098</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1063727823586" lon="14.3595672170428">
+        <ele>569.723261443004</ele>
+        <time>2015-03-19T23:33:42.0806295</time>
+        <name>TOČKA 099</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1063902999671" lon="14.3592402290189">
+        <ele>566.902717718184</ele>
+        <time>2015-03-19T23:33:43.7607255</time>
+        <name>TOČKA 100</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1064805493977" lon="14.3589471645954">
+        <ele>565.874261443094</ele>
+        <time>2015-03-19T23:33:45.6008308</time>
+        <name>TOČKA 101</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1065373357737" lon="14.3587240152307">
+        <ele>563.963057857969</ele>
+        <time>2015-03-19T23:33:47.1889216</time>
+        <name>TOČKA 102</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1066537187499" lon="14.3579161306908">
+        <ele>556.870009966344</ele>
+        <time>2015-03-19T23:33:49.818072</time>
+        <name>TOČKA 103</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1066839836176" lon="14.3577071925588">
+        <ele>554.351394581179</ele>
+        <time>2015-03-19T23:33:57.580516</time>
+        <name>TOČKA 104</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1066590639769" lon="14.3575753756232">
+        <ele>553.146858859062</ele>
+        <time>2015-03-19T23:33:59.1636065</time>
+        <name>TOČKA 105</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.106600721598" lon="14.3575204280852">
+        <ele>552.286858859137</ele>
+        <time>2015-03-19T23:34:00.6166897</time>
+        <name>TOČKA 106</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1062831500701" lon="14.3578091746763">
+        <ele>549.636790867211</ele>
+        <time>2015-03-19T23:34:02.8028147</time>
+        <name>TOČKA 107</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1060806268409" lon="14.3579158123522">
+        <ele>547.101717718094</ele>
+        <time>2015-03-19T23:34:05.0599438</time>
+        <name>TOČKA 108</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1057813467553" lon="14.3580166163494">
+        <ele>541.973717718273</ele>
+        <time>2015-03-19T23:34:08.9181645</time>
+        <name>TOČKA 109</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1054911933105" lon="14.3580199747632">
+        <ele>539.24545627512</ele>
+        <time>2015-03-19T23:34:11.7133243</time>
+        <name>TOČKA 110</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1052722542354" lon="14.3577861154388">
+        <ele>536.009858859107</ele>
+        <time>2015-03-19T23:34:13.5724307</time>
+        <name>TOČKA 111</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1047537621654" lon="14.357604396371">
+        <ele>529.870315134302</ele>
+        <time>2015-03-19T23:34:15.7745566</time>
+        <name>TOČKA 112</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1046622697966" lon="14.3576749827204">
+        <ele>529.669261443093</ele>
+        <time>2015-03-19T23:34:20.9978554</time>
+        <name>TOČKA 113</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1044659843521" lon="14.3580318407457">
+        <ele>529.581717718244</ele>
+        <time>2015-03-19T23:34:23.315988</time>
+        <name>TOČKA 114</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.104298678868" lon="14.3579503456084">
+        <ele>525.577437057006</ele>
+        <time>2015-03-19T23:34:49.4914851</time>
+        <name>TOČKA 115</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1042004811165" lon="14.3576872829779">
+        <ele>522.556010972419</ele>
+        <time>2015-03-19T23:34:50.7525573</time>
+        <name>TOČKA 116</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1041074303933" lon="14.3574797824632">
+        <ele>520.703618486243</ele>
+        <time>2015-03-19T23:34:51.8686211</time>
+        <name>TOČKA 117</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1039224194007" lon="14.3572594430707">
+        <ele>517.288368825316</ele>
+        <time>2015-03-19T23:34:53.6217214</time>
+        <name>TOČKA 118</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1038145482856" lon="14.3569964955852">
+        <ele>512.386368825361</ele>
+        <time>2015-03-19T23:34:55.5248302</time>
+        <name>TOČKA 119</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1036008330702" lon="14.3568321121281">
+        <ele>507.703271409199</ele>
+        <time>2015-03-19T23:34:57.6469516</time>
+        <name>TOČKA 120</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.103493546241" lon="14.3566734480835">
+        <ele>503.895578357258</ele>
+        <time>2015-03-19T23:35:10.9217109</time>
+        <name>TOČKA 121</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1034043147369" lon="14.3562851422641">
+        <ele>497.425815134198</ele>
+        <time>2015-03-19T23:35:12.4808</time>
+        <name>TOČKA 122</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.103353378408" lon="14.355826867943">
+        <ele>492.528456275091</ele>
+        <time>2015-03-19T23:35:15.941998</time>
+        <name>TOČKA 123</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.103381260666" lon="14.3556249213423">
+        <ele>490.562912550271</ele>
+        <time>2015-03-19T23:35:18.3781374</time>
+        <name>TOČKA 124</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1035634610283" lon="14.3553447033909">
+        <ele>488.648427302932</ele>
+        <time>2015-03-19T23:35:20.2172425</time>
+        <name>TOČKA 125</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.103649607743" lon="14.3551837936708">
+        <ele>487.969602745911</ele>
+        <time>2015-03-19T23:35:25.1055221</time>
+        <name>TOČKA 126</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1036773715022" lon="14.3549609893972">
+        <ele>487.383358859122</ele>
+        <time>2015-03-19T23:35:26.1275806</time>
+        <name>TOČKA 127</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1036178931521" lon="14.3547044370972">
+        <ele>485.276358859092</ele>
+        <time>2015-03-19T23:35:27.551662</time>
+        <name>TOČKA 128</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1036120004858" lon="14.3545167870913">
+        <ele>483.516815134138</ele>
+        <time>2015-03-19T23:35:29.0237462</time>
+        <name>TOČKA 129</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1036977936108" lon="14.3542933071039">
+        <ele>481.13691255033</ele>
+        <time>2015-03-19T23:35:30.6818411</time>
+        <name>TOČKA 130</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1039048752168" lon="14.3541379397415">
+        <ele>477.36736882545</ele>
+        <time>2015-03-19T23:35:32.148925</time>
+        <name>TOČKA 131</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1040479145108" lon="14.3537747392823">
+        <ele>473.293426060472</ele>
+        <time>2015-03-19T23:35:34.0170318</time>
+        <name>TOČKA 132</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1043867134989" lon="14.352964286142">
+        <ele>463.390815134272</ele>
+        <time>2015-03-19T23:35:38.2732753</time>
+        <name>TOČKA 133</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1046693221974" lon="14.3524812549593">
+        <ele>463.202233993778</ele>
+        <time>2015-03-19T23:35:42.341508</time>
+        <name>TOČKA 134</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1047018379729" lon="14.3522444843616">
+        <ele>462.536020821365</ele>
+        <time>2015-03-19T23:35:43.7185867</time>
+        <name>TOČKA 135</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1047485858108" lon="14.3519588784366">
+        <ele>460.411532852501</ele>
+        <time>2015-03-19T23:35:45.6846992</time>
+        <name>TOČKA 136</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1049785853865" lon="14.3515807447399">
+        <ele>455.913953594325</ele>
+        <time>2015-03-19T23:35:48.2738473</time>
+        <name>TOČKA 137</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1051029810987" lon="14.3513428977415">
+        <ele>451.811271409392</ele>
+        <time>2015-03-19T23:35:49.4639154</time>
+        <name>TOČKA 138</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1052075998485" lon="14.3510288009089">
+        <ele>447.976852222273</ele>
+        <time>2015-03-19T23:35:50.8859967</time>
+        <name>TOČKA 139</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1055152854772" lon="14.3507053728795">
+        <ele>446.751358859092</ele>
+        <time>2015-03-19T23:35:53.8061637</time>
+        <name>TOČKA 140</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1056738456511" lon="14.3505227438724">
+        <ele>444.457281375676</ele>
+        <time>2015-03-19T23:35:55.5722647</time>
+        <name>TOČKA 141</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1060170796948" lon="14.3503791752656">
+        <ele>444.27674437061</ele>
+        <time>2013-10-10T14:44:31.8690854</time>
+        <name>TOČKA 190</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1060799461759" lon="14.3503784389148">
+        <ele>444.835744370595</ele>
+        <time>2013-10-10T14:44:31.9370893</time>
+        <name>TOČKA 191</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1067208326972" lon="14.349967662154">
+        <ele>439.667613769824</ele>
+        <time>2013-10-10T14:44:34.7572506</time>
+        <name>TOČKA 192</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1070997791534" lon="14.349845019987">
+        <ele>440.820466016084</ele>
+        <time>2013-10-10T14:44:43.1167287</time>
+        <name>TOČKA 193</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1071733126008" lon="14.3498567581308">
+        <ele>440.234740028828</ele>
+        <time>2014-01-05T13:27:11.52366</time>
+        <name>TOČKA 193 - TOČKA 194</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1071733126008" lon="14.3498567581308">
+        <ele>440.234740028828</ele>
+        <time>2014-01-05T13:27:11.52366</time>
+        <name>TOČKA 193 - TOČKA 194</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1073709828276" lon="14.3499113707602">
+        <ele>434.86895527985</ele>
+        <time>2013-10-10T14:44:45.3328555</time>
+        <name>TOČKA 194</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1075109473831" lon="14.3498610588918">
+        <ele>437.851781005852</ele>
+        <time>2013-09-14T08:12:08</time>
+        <name>TOČKA 870</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1077565696037" lon="14.3496843111646">
+        <ele>444.332441849573</ele>
+        <time>2013-09-14T08:12:44</time>
+        <name>TOČKA 874</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1079336823993" lon="14.3493623924831">
+        <ele>452.073165829969</ele>
+        <time>2013-10-09T14:39:15.0879705</time>
+        <name>TOČKA 874 - TOČKA 879</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1079803044691" lon="14.3490559096023">
+        <ele>459.805626431657</ele>
+        <time>2013-10-09T14:39:37.179234</time>
+        <name>TOČKA 874 - TOČKA 879 - TOČKA 879</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1080078981745" lon="14.3488052743956">
+        <ele>460.438904881443</ele>
+        <time>2013-10-09T14:41:08.9344821</time>
+        <name>TOČKA 874 - TOČKA 879 - TOČKA 879 - TOČKA 879</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1080991084011" lon="14.3486860006214">
+        <ele>462.510003515556</ele>
+        <time>2013-09-14T08:13:41</time>
+        <name>TOČKA 879</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1081678376591" lon="14.3488659743587">
+        <ele>459.339821732781</ele>
+        <time>2013-09-14T08:13:55</time>
+        <name>TOČKA 880</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1082710889179" lon="14.3491637464559">
+        <ele>460.789813206485</ele>
+        <time>2013-09-14T08:14:23</time>
+        <name>TOČKA 883</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1084242761184" lon="14.3497390596724">
+        <ele>459.123126017694</ele>
+        <time>2013-09-14T08:15:02</time>
+        <name>TOČKA 887</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1086479179376" lon="14.3499582677316">
+        <ele>461.201899543554</ele>
+        <time>2013-09-14T08:15:21</time>
+        <name>TOČKA 889</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1088754822024" lon="14.3499715549287">
+        <ele>464.03232187096</ele>
+        <time>2013-09-14T08:15:43</time>
+        <name>TOČKA 891</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.108946974731" lon="14.3498590343684">
+        <ele>467.28671539031</ele>
+        <time>2014-01-05T13:35:26.8999939</time>
+        <name>TOČKA 891 - TOČKA 892</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1090040662698" lon="14.349164336984">
+        <ele>474.282268199367</ele>
+        <time>2013-09-14T08:15:51</time>
+        <name>TOČKA 892</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1090040662698" lon="14.349164336984">
+        <ele>474.282268199367</ele>
+        <time>2013-10-09T14:39:51.9790805</time>
+        <name>TOČKA 892 - TOČKA 900</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1088732836356" lon="14.348753393433">
+        <ele>485.062081116959</ele>
+        <time>2013-10-09T14:41:37.7731316</time>
+        <name>TOČKA 892 - TOČKA 900 - TOČKA 900</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1089300644" lon="14.3485523108">
+        <ele>470.22</ele>
+        <time>2013-09-14T08:17:14</time>
+        <name>TOČKA 900</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1090016458" lon="14.3485010974">
+        <ele>477.91</ele>
+        <time>2013-09-14T08:17:25</time>
+        <name>TOČKA 901</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1093367379313" lon="14.3486088856095">
+        <ele>487.540620354786</ele>
+        <time>2013-09-14T08:17:57</time>
+        <name>TOČKA 903</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1096462142" lon="14.3485483713">
+        <ele>494.74</ele>
+        <time>2013-09-14T08:18:30</time>
+        <name>TOČKA 906</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1098956052359" lon="14.348233794422">
+        <ele>494.307392833456</ele>
+        <time>2013-09-14T08:19:05</time>
+        <name>TOČKA 909</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1101123499252" lon="14.3480782730884">
+        <ele>492.029173066231</ele>
+        <time>2013-09-14T08:19:29</time>
+        <name>TOČKA 911</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1104861461865" lon="14.3474758858771">
+        <ele>504.467384335789</ele>
+        <time>2013-09-14T08:20:15</time>
+        <name>TOČKA 915</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1109962035" lon="14.3470111303">
+        <ele>506.27</ele>
+        <time>2013-09-14T08:21:01</time>
+        <name>TOČKA 919</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1110055074" lon="14.3468847312">
+        <ele>509.16</ele>
+        <time>2013-09-14T08:21:11</time>
+        <name>TOČKA 920</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.110907523" lon="14.3468931131">
+        <ele>510.12</ele>
+        <time>2013-09-14T08:21:19</time>
+        <name>TOČKA 921</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1105081481208" lon="14.3470931896022">
+        <ele>521.499009672478</ele>
+        <time>2013-09-14T08:21:52</time>
+        <name>TOČKA 925</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1102284196398" lon="14.3472285972131">
+        <ele>528.258962392502</ele>
+        <time>2013-09-14T08:22:38</time>
+        <name>TOČKA 930</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.109977191601" lon="14.3472732745947">
+        <ele>536.524909920835</ele>
+        <time>2013-10-09T14:42:04.7466744</time>
+        <name>TOČKA 930 - TOČKA 935</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1096939725313" lon="14.3476451333906">
+        <ele>523.189470871836</ele>
+        <time>2013-10-09T14:42:09.6309538</time>
+        <name>TOČKA 930 - TOČKA 935 - TOČKA 935</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1094829347" lon="14.3476784974">
+        <ele>526.46</ele>
+        <time>2013-09-14T08:23:24</time>
+        <name>TOČKA 935</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1094899159399" lon="14.3474806551835">
+        <ele>532.741070664535</ele>
+        <time>2013-09-14T08:23:32</time>
+        <name>TOČKA 936</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1097208901223" lon="14.3472762914245">
+        <ele>540.443501678082</ele>
+        <time>2013-10-09T14:42:20.7185879</time>
+        <name>TOČKA 936 - TOČKA 944</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1100648742989" lon="14.3465351872941">
+        <ele>563.532009672672</ele>
+        <time>2013-09-14T08:25:58</time>
+        <name>TOČKA 944</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1104257412998" lon="14.3462110785252">
+        <ele>564.690146334476</ele>
+        <time>2013-10-09T14:42:34.5173772</time>
+        <name>TOČKA 944 - TOČKA 960</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1106320180364" lon="14.3459166027458">
+        <ele>571.436087711081</ele>
+        <time>2013-10-09T14:42:38.6896158</time>
+        <name>TOČKA 944 - TOČKA 960 - TOČKA 960</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1112434753098" lon="14.3454365522189">
+        <ele>576.496264817024</ele>
+        <time>2013-10-09T14:42:47.9291443</time>
+        <name>TOČKA 944 - TOČKA 960 - TOČKA 960 - TOČKA 960</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1115405243" lon="14.3451072648">
+        <ele>583.66</ele>
+        <time>2013-09-14T08:29:12</time>
+        <name>TOČKA 960</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1119874730422" lon="14.3444542665462">
+        <ele>602.78793514967</ele>
+        <time>2013-10-09T14:42:54.8055376</time>
+        <name>TOČKA 960 - TOČKA 967</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1122329492132" lon="14.3442497092866">
+        <ele>605.209857111573</ele>
+        <time>2013-09-14T08:30:47</time>
+        <name>TOČKA 967</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1125194503291" lon="14.3440307575474">
+        <ele>609.094046660532</ele>
+        <time>2013-09-14T08:31:35</time>
+        <name>TOČKA 971</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1127588159537" lon="14.3436037506445">
+        <ele>622.541048910618</ele>
+        <time>2013-09-14T08:32:32</time>
+        <name>TOČKA 974</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1129562504382" lon="14.3434553853449">
+        <ele>628.107204987407</ele>
+        <time>2013-09-14T08:33:05</time>
+        <name>TOČKA 976</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1133140650292" lon="14.3434441946637">
+        <ele>633.999178463738</ele>
+        <time>2013-09-14T08:33:37</time>
+        <name>TOČKA 978</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1135227242434" lon="14.3435668919945">
+        <ele>633.43925039731</ele>
+        <time>2013-10-09T14:43:38.8430564</time>
+        <name>TOČKA 978 - TOČKA 980</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1135767549041" lon="14.3437122819645">
+        <ele>634.500160648113</ele>
+        <time>2013-09-14T08:34:00</time>
+        <name>TOČKA 980</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1134573307912" lon="14.3439709853182">
+        <ele>632.370958121046</ele>
+        <time>2013-10-09T14:43:52.5568408</time>
+        <name>TOČKA 980 - TOČKA 985</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1133378663064" lon="14.3442227342654">
+        <ele>632.521961613832</ele>
+        <time>2013-09-14T08:34:51</time>
+        <name>TOČKA 985</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1133578859571" lon="14.3443407114985">
+        <ele>635.253879305117</ele>
+        <time>2013-10-09T14:44:03.9734938</time>
+        <name>TOČKA 985 - TOČKA 986</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1134788225055" lon="14.3443462351819">
+        <ele>639.822112426557</ele>
+        <time>2013-09-14T08:35:02</time>
+        <name>TOČKA 986</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1137229057147" lon="14.3438983049334">
+        <ele>642.422393056937</ele>
+        <time>2013-10-09T14:44:24.3956619</time>
+        <name>TOČKA 986 - TOČKA 994</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1139828883794" lon="14.3436935669829">
+        <ele>651.142788231792</ele>
+        <time>2013-10-09T14:44:29.6339615</time>
+        <name>TOČKA 986 - TOČKA 994 - TOČKA 994</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1141598643234" lon="14.3433507326412">
+        <ele>657.451920117134</ele>
+        <time>2013-09-14T08:36:45</time>
+        <name>TOČKA 994</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1142711807" lon="14.3434340693">
+        <ele>665.37</ele>
+        <time>2013-09-14T08:36:55</time>
+        <name>TOČKA 995</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1137039362742" lon="14.3448094783681">
+        <ele>667.22813566661</ele>
+        <time>2013-09-14T08:38:52</time>
+        <name>TOČKA 1006</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1136838084607" lon="14.345519004458">
+        <ele>684.386841282174</ele>
+        <time>2013-09-14T08:39:27</time>
+        <name>TOČKA 1009</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1135068656246" lon="14.3458687822769">
+        <ele>682.66449383057</ele>
+        <time>2013-10-09T14:45:06.6620794</time>
+        <name>TOČKA 1009 - TOČKA 1015</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1134120125688" lon="14.3461967285968">
+        <ele>681.502992757853</ele>
+        <time>2013-09-14T08:40:33</time>
+        <name>TOČKA 1015</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.113501199204" lon="14.3465711812381">
+        <ele>683.686042753756</ele>
+        <time>2013-09-14T08:40:53</time>
+        <name>TOČKA 1017</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1137487798644" lon="14.346735155061">
+        <ele>691.186834739769</ele>
+        <time>2013-09-14T08:41:29</time>
+        <name>TOČKA 1021</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1142073555501" lon="14.3465837207445">
+        <ele>708.169213567018</ele>
+        <time>2013-09-14T08:42:17</time>
+        <name>TOČKA 1024</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1144543417476" lon="14.3466433951402">
+        <ele>711.241934135596</ele>
+        <time>2013-09-14T08:42:38</time>
+        <name>TOČKA 1026</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1147462770956" lon="14.3469528822569">
+        <ele>710.171737163012</ele>
+        <time>2013-09-14T08:43:10</time>
+        <name>TOČKA 1029</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1149510489452" lon="14.3468183449982">
+        <ele>717.60530140783</ele>
+        <time>2013-10-09T14:45:40.0299879</time>
+        <name>TOČKA 1029 - TOČKA 1034</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1151280738947" lon="14.3464824680405">
+        <ele>722.622307736024</ele>
+        <time>2013-09-14T08:44:03</time>
+        <name>TOČKA 1034</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1152772605" lon="14.3461488839">
+        <ele>729.3</ele>
+        <time>2013-09-14T08:44:28</time>
+        <name>TOČKA 1037</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1154121189228" lon="14.3460799462626">
+        <ele>726.532939522328</ele>
+        <time>2014-01-05T13:52:20.5319703</time>
+        <name>TOČKA 1037 - TOČKA 1046</name>
+        <desc />
+      </trkpt>
+      <trkpt lat="46.1155315891416" lon="14.3460453302948">
+        <ele>726.289501634603</ele>
+        <time>2013-09-14T09:17:10</time>
+        <name>TOČKA 1046</name>
+        <desc />
+      </trkpt>
+      <extensions>
+        <drawing v="True" pv="False" pw="4" pc="255|255|255" pt="0" lv="True" lw="4" lc="255|0|0" lt="0" ls="0" lcs="3" fc="255|255|255" ft="120" fs="-1" fsc="0|0|0" xmlns="" />
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>
