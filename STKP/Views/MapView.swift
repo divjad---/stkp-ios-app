@@ -16,13 +16,26 @@ struct MapView: UIViewRepresentable {
     
     private let mapZoomEdgeInsets = UIEdgeInsets(top: 30.0, left: 30.0, bottom: 30.0, right: 30.0)
     
+    private var etapa: String? = nil
+    
     init(_ locationViewModel: LocationViewModel) {
         //locationViewModel.load()
         self.locationViewModel = locationViewModel
     }
     
+    init(_ locationViewModel: LocationViewModel, etapa: String) {
+        //locationViewModel.load()
+        self.locationViewModel = locationViewModel
+        
+        self.etapa = etapa
+    }
+    
     func makeCoordinator() -> MapViewCoordinator {
-        MapViewCoordinator(self)
+        if etapa != nil {
+            return MapViewCoordinator(self, etapa: true)
+        }else{
+            return MapViewCoordinator(self)
+        }
     }
     
     func makeUIView(context: Context) -> MKMapView {
@@ -64,6 +77,11 @@ struct MapView: UIViewRepresentable {
                     
                     mapView.addOverlay(polyline)
                 }
+            }
+            
+            if let first = mapView.overlays.first {
+                let rect = mapView.overlays.reduce(first.boundingMapRect, {$0.union($1.boundingMapRect)})
+                mapView.setVisibleMapRect(rect, edgePadding: UIEdgeInsets(top: 50.0, left: 50.0, bottom: 50.0, right: 50.0), animated: true)
             }
         }
     }

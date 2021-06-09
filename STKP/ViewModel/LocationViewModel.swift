@@ -41,6 +41,65 @@ class LocationViewModel: NSObject, ObservableObject {
         objectWillChange.send()
     }
     
+    func loadSpecificEtapa(etapa: String){
+        fetchSpecificLocations(etapa: etapa)
+        
+        self.locationManager.delegate = self
+        self.locationManager.desiredAccuracy = kCLLocationAccuracyBestForNavigation
+        self.locationManager.requestWhenInUseAuthorization()
+        self.locationManager.startUpdatingLocation()
+        
+        objectWillChange.send()
+    }
+    
+    private func fetchSpecificLocations(etapa: String){
+        let fileManager = FileManager.default
+        
+        var documents = fileManager.urls(for: .documentDirectory, in: .userDomainMask)[0]
+        documents.appendPathComponent("files")
+        
+        let fileName = etapa + ".gpx"
+        
+        if let numberRange = fileName.range(of: #"[0-9]+"#, options: .regularExpression){
+            let number = Int(String(fileName[numberRange])) ?? 0
+            
+            print("Number: \(String(describing: number))")
+            
+            let etFile = documents.appendingPathComponent(fileName)
+            
+            if(fileManager.fileExists(atPath: etFile.relativePath)){
+                locations[number] = [CLLocationCoordinate2D]()
+                coordinates = parser.parseCoordinates(fromGpxFile: etFile.relativePath) ?? []
+                
+                coordinates = coordinates.drop(percentageToKeep: 75)
+                coordinates.forEach{ point in
+                    locations[number]?.append(point.coordinate)
+                }
+            }
+        }
+        
+        do{
+            let etJsonFile = documents.appendingPathComponent("etape.json")
+            let etJsonData = try Data.init(contentsOf: etJsonFile)
+            
+            etape = try! JSONDecoder().decode([Etapa].self, from: etJsonData)
+            print("Stevilo etap: \(etape.count)") // Prints: 3
+            
+            var etapeCopy = [Etapa]()
+            for (index, var etapa) in etape.enumerated() {
+                etapa.id = index+1
+                
+                etapeCopy.append(etapa)
+            }
+            
+            etape.removeAll()
+            etape.append(contentsOf: etapeCopy)
+            etape = etape.sorted(by: { $0.id ?? 1 < $1.id ?? 1 })
+        }catch{
+            print(error.localizedDescription)
+        }
+    }
+    
     private func fetchLocations() {
         let fileManager = FileManager.default
         

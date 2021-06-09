@@ -11,13 +11,20 @@ final class MapViewCoordinator: NSObject, MKMapViewDelegate {
     private let map: MapView
     public var mkMapView: MKMapView!
     
+    private var etapa = false
+    
     init(_ control: MapView) {
         self.map = control
     }
     
+    init(_ control: MapView, etapa: Bool) {
+        self.map = control
+        self.etapa = etapa
+    }
+    
     func mapView(_ mapView: MKMapView, didAdd views: [MKAnnotationView]) {
         if let annotationView = views.first, let annotation = annotationView.annotation {
-            if annotation is MKUserLocation {
+            if annotation is MKUserLocation && !etapa {
                 let region = MKCoordinateRegion(center: annotation.coordinate, span: MKCoordinateSpan(latitudeDelta: 0.5, longitudeDelta: 0.5))
                 mapView.setRegion(region, animated: true)
             }

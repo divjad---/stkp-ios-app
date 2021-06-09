@@ -16,13 +16,17 @@ struct ContentView: View {
     init() {
         //gpxViewModel.fetchFilesFuture().assign(to: \.finishedDownloading, on: self.locationViewModel)
         
-        gpxViewModel.fetchFiles()
+        if gpxViewModel.isNetworkReachable() {
+            gpxViewModel.fetchFiles()
+        } else {
+            self.locationViewModel.load()
+        }
     }
     
     var body: some View {
         ZStack{
             gpxViewModel.isLoading(){
-                Text("Loading...")
+                Text("Nalagam...")
                     .font(.title)
                     .frame(maxWidth: .infinity, alignment: .center)
                     .foregroundColor(Color.red)
